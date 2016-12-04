@@ -1,0 +1,1500 @@
+a001	91%	30215	2007-01-10	哈囉	BASIC	[基本輸出輸入]	Brian Kernighan
+a002	91%	27832	2007-01-10	簡易加法	BASIC	[基本輸出輸入]	
+a003	96%	23150	2007-01-10	兩光法師占卜術	BASIC	[曆法]	
+a004	94%	20653	2007-01-10	文文的求婚	BASIC	[曆法]	
+a005	94%	16758	2007-04-22	Eva 的回家作業	BASIC	[迴圈]	POJ
+a006	94%	13935	2007-04-22	一元二次方程式	BASIC	[數學]	
+d049	99%	12899	2008-09-13	中華民國萬歲！	BASIC	[變數, 輸出入, 運算子]	板橋高中教學題
+d050	97%	10628	2008-09-14	妳那裡現在幾點了？	BASIC	[變數, 輸出入, 運算子]	板橋高中教學題
+a024	93%	10250	2007-10-18	最大公因數(GCD)	BASIC	[GCD, 數學, 迴圈]	
+d064	99%	10171	2008-10-19	ㄑㄧˊ 數？	BASIC	[if, 運算子]	板橋高中教學題
+d065	97%	9652	2008-10-24	三人行必有我師	BASIC	[if, max]	板橋高中教學題
+a012	95%	9630	2007-10-05	10055 - Hashmat the Brave Warrior	UVA	[]	UVa10055
+d068	98%	9458	2008-10-31	該減肥了！	BASIC	[比較運算子, 算術運算子]	板橋高中教學題
+a009	96%	9355	2007-04-25	解碼器	BASIC	[字元處理]	ACM 458
+d063	99%	9345	2008-10-17	0 與 1	BASIC	[運算子]	板橋高中教學題
+d073	98%	9268	2008-11-04	分組報告	BASIC	[算術運算子]	板橋高中教學題
+a015	96%	8629	2007-10-05	矩陣的翻轉	BASIC	[陣列]	
+d058	99%	8426	2008-09-29	BASIC 的 SGN 函數	BASIC	[關係運算子]	板橋高中教學題
+d051	94%	8339	2008-09-14	糟糕，我發燒了！	BASIC	[浮點數]	板橋高中教學題
+d067	98%	8133	2008-10-31	文文的求婚--續集 (1 行版)	BASIC	[if, 曆法, 陳述式]	板橋高中教學題
+d060	97%	8003	2008-10-02	還要等多久啊？	BASIC	[算術運算子]	板橋高中教學題
+d074	98%	7544	2008-11-07	電腦教室	BASIC	[迴圈]	板橋高中教學題
+a034	94%	7309	2007-10-18	二進位制轉換	BASIC	[迴圈]	
+d483	97%	7247	2009-10-11	hello, world	BASIC	[基本輸出輸入]	Wikipedia
+d498	98%	7074	2009-10-23	我不說髒話	BASIC	[for, 基本輸出輸入, 迴圈]	板橋高中教學題
+a022	95%	7055	2007-10-11	迴文	BASIC	[字串, 迴文]	
+a010	89%	6861	2007-04-26	因數分解	BASIC	[數論]	
+d066	91%	6560	2008-10-25	上學去吧！	BASIC	[if, 算數, 邏輯運算子, 關係運算子]	板橋高中教學題
+a053	98%	6532	2011-02-22	Sagit&#039;s 計分程式	BASIC	[多重 if]	Sagit's 教學題
+d069	95%	6402	2008-10-31	文文的求婚--續集 (n 行版)	BASIC	[while, 曆法, 迴圈]	板橋高中教學題
+a038	87%	6324	2007-11-01	數字翻轉	BASIC	[while, 迴圈]	
+a042	97%	6153	2008-03-13	平面圓形切割	BASIC	[數學]	許介彥
+a058	97%	6112	2011-02-25	MOD3	BASIC	[if, 數學]	
+d070	95%	6102	2008-10-31	文文的求婚--續集 (0 尾版)	BASIC	[while, 曆法, 迴圈]	板橋高中教學題
+d071	98%	6026	2008-10-31	文文的求婚--續集 (EOF 版)	BASIC	[while, 曆法, 迴圈]	板橋高中教學題
+a020	90%	5721	2007-10-17	身分證檢驗	BASIC	[流程控制]	
+a044	89%	5611	2008-03-13	空間切割	BASIC	[數學, 遞迴]	許介彥
+d010	97%	5587	2008-03-10	盈數、虧數和完全數	BASIC	[數學]	Sagit's C++ 程式設計
+d072	98%	5560	2008-10-31	文文的求婚--續集 (Case 版)	BASIC	[for, 曆法, 迴圈]	板橋高中教學題
+d460	96%	5270	2009-09-30	山六九之旅	BASIC	[算術運算子, 關係運算子]	板橋高中教學題
+a148	93%	5184	2011-07-29	You Cannot Pass?!	BASIC	[數學]	
+d489	96%	5079	2009-10-16	伏林的三角地	BASIC	[數學]	板橋高中教學題
+a147	96%	4997	2011-07-29	Print it all	BASIC	[if, 數學, 窮舉]	
+d461	99%	4551	2009-10-02	班際籃球賽	BASIC	[數學]	板橋高中教學題
+d485	87%	4417	2009-10-14	我愛偶數	BASIC	[數學, 算術運算子]	板橋高中教學題
+d559	94%	4329	2009-12-06	班號	BASIC	[字串]	jack1
+d490	97%	3963	2009-10-18	我也愛偶數	BASIC	[數學]	板橋高中教學題
+a244	81%	3921	2011-09-22	新手訓練 ~ for + if	BASIC	[for, if, switch, 迴圈]	新手訓練系列 ~ 1
+a040	93%	3900	2008-02-13	阿姆斯壯數	BASIC	[數學, 窮舉]	
+a059	96%	3731	2011-02-25	完全平方和	BASIC	[數學, 窮舉]	
+a216	94%	3718	2011-08-12	數數愛明明	BASIC	[數列, 數學]	
+a215	89%	3674	2011-08-12	明明愛數數	BASIC	[數列, 數學]	
+d126	98%	3633	2009-02-05	一、牧场围栏	TOI	[]	NOI冬令营
+a104	94%	3631	2011-04-22	排序	BASIC	[排序]	yoooooooo
+a011	76%	3549	2007-10-17	00494 - Kindergarten Counting Game	UVA	[字串處理]	UVa494
+a149	95%	3477	2011-07-29	乘乘樂	BASIC	[字元處理, 算術運算子]	
+a016	80%	3460	2007-10-05	數獨(SUDOKU)	BASIC	[陣列]	
+a065	96%	3367	2011-03-02	提款卡密碼	BASIC	[字元處理]	板橋高中教學題
+c005	95%	3315	2007-10-06	10300 - Ecological Premium	UVA	[]	UVa10300
+d511	93%	3218	2009-10-29	小明的作業	BASIC	[幾何, 數學]	板橋高中教學題
+d649	97%	2955	2010-02-14	數字三角形	BASIC	[for, 迴圈]	麗山高中迴圈36題
+d581	97%	2912	2009-12-18	三條線	ORIGINAL	[]	Xatier
+d491	95%	2878	2009-10-20	我也愛偶數 (swap 版)	BASIC	[數學]	板橋高中教學題
+d277	94%	2830	2009-05-10	矩形对角线	BASIC	[數學]	
+c002	96%	2710	2007-10-08	10696 - f91	UVA	[]	UVa10696
+d507	84%	2673	2009-10-26	三角形的判斷	BASIC	[幾何, 數學]	板橋高中教學題
+d124	68%	2667	2009-02-04	3的倍数	BASIC	[數學]	
+d086	92%	2520	2008-12-17	態度之重要的證明	BASIC	[字元處理]	成功電研20th~21st C++ ～最後的競賽～
+d532	93%	2513	2009-11-14	文文的求婚 (三)	BASIC	[曆法]	板橋高中教學題
+d122	82%	2513	2009-02-03	Oh! My Zero!!	BASIC	[數學]	liouzhou_101
+d127	93%	2433	2009-02-05	二、牧场面积	TOI	[]	NOI冬令营
+a013	83%	2383	2007-10-05	羅馬數字	BASIC	[進位制]	NPSC 模擬試題
+d053	98%	2296	2008-09-16	10970 - Big Chocolate	UVA	[]	UVa10970
+c004	95%	2255	2007-10-23	10812 - Beat the Spread!	UVA	[]	UVa10812
+d143	95%	2185	2009-02-21	11172 - Relational Operators	UVA	[]	UVa11172
+b186	92%	2090	2008-11-19	97七區資訊學科1(改編)	CONTEST	[]	97學年度彰雲嘉區資訊學科能力競賽
+d226	98%	2031	2009-04-22	10071 - Back to High School Physics	UVA	[]	UVa10071
+c022	94%	1992	2007-08-22	10783 - Odd Sum	UVA	[]	UVa10783
+a121	77%	1967	2011-04-29	質數又來囉	BASIC	[數論]	
+d583	90%	1922	2009-12-20	幼稚的企鵝	BASIC	[排序]	jack1
+a799	97%	1902	2013-10-17	正值國	BASIC	[基本輸出輸入]	
+c067	97%	1867	2007-10-07	00591 - Box of Bricks	UVA	[陣列]	UVa591
+a007	14%	1853	2007-04-24	判斷質數	ORIGINAL	[建表, 數論, 質數]	
+c013	97%	1805	2007-10-06	00488 - Triangle Wave	UVA	[迴圈]	UVa488
+b138	97%	1774	2008-06-26	NOIP2005 1.陶陶摘苹果	TOI	[]	NOIP2005普及組
+a273	84%	1761	2011-10-21	小朋友下樓梯	ORIGINAL	[]	
+c039	94%	1722	2007-10-19	00100 - The 3n + 1 problem	UVA	[]	UVa100
+a054	92%	1721	2011-03-09	電話客服中心	BASIC	[流程控制]	板橋高中教學題
+d579	91%	1719	2009-12-18	兩條線	ORIGINAL	[]	raincole
+a095	71%	1624	2011-04-06	麥哲倫的陰謀	BASIC	[賽局理論, 邏輯]	2011 TOI 培訓內容
+d587	95%	1620	2009-12-20	參貳壹真好吃	BASIC	[陣列]	jack1
+c079	90%	1538	2007-08-24	10346 - Peter&#039;s Smokes	UVA	[]	UVa10346
+d212	89%	1492	2009-04-11	東東爬階梯	BASIC	[DP]	
+d493	79%	1448	2009-10-20	入门求幂题(求幂系列题1)	ORIGINAL	[數論]	scientific
+a225	94%	1430	2011-08-19	明明愛排列	BASIC	[字串, 排序]	
+a111	98%	1413	2011-05-18	12149 - Feynman	UVA	[]	UVa12149
+d290	98%	1394	2009-05-19	完全数	ORIGINAL	[]	me
+c024	91%	1338	2007-08-22	10079 - Pizza Cutting	UVA	[]	UVa10079
+d635	93%	1290	2010-01-22	幸運777？luck	ORIGINAL	[進位制]	jack1
+a224	82%	1274	2011-08-19	明明愛明明	BASIC	[字串, 迴文]	
+b127	97%	1260	2008-05-29	會議中心（Room）	CONTEST	[]	96學年度台北市資訊學科能力競賽
+c007	95%	1252	2007-10-06	00272 - TeX Quotes	UVA	[]	UVa272
+c006	92%	1223	2007-08-22	10550 - Combination Lock	UVA	[]	UVa10550
+a021	67%	1197	2007-10-05	大數運算	BASIC	[大數, 陣列]	
+a248	82%	1184	2011-09-26	新手訓練 ~ 陣列應用	BASIC	[陣列]	新手訓練系列 ~ 2
+b146	97%	1164	2008-07-04	NOIP2004 1.不高兴的津津	TOI	[]	NOIP2004普及組
+a861	98%	1147	2013-12-23	1. Secure the Perimeter	CONTEST	[]	HP CodeWars2010
+d235	82%	1139	2009-04-24	10929 - You can say 11	UVA	[]	UVa10929
+d039	94%	1094	2008-08-31	11044 - Searching for Nessy	UVA	[]	UVa11044
+d584	97%	1093	2009-12-20	技能點數skill	BASIC	[流程控制]	jack1
+c032	96%	1088	2007-10-11	00382 - Perfection	UVA	[]	UVa382
+d660	97%	1078	2010-03-13	11764 - Jumping Mario	UVA	[]	UVa11764
+d018	83%	1074	2008-04-18	字串讀取練習	BASIC	[stringstream, 字串]	
+d129	89%	1045	2009-02-06	00136 - Ugly Numbers	UVA	[]	UVa136
+d016	84%	1041	2008-04-01	後序運算法	BASIC	[Stack, parser, stringstream]	
+a017	71%	1036	2007-10-05	五則運算	BASIC	[parser, stringstream]	
+d236	94%	1022	2009-04-24	畢氏的定理	ORIGINAL	[]	Project Euler
+c054	97%	1006	2007-10-17	10082 - WERTYU	UVA	[]	UVa10082
+d057	94%	999	2008-09-23	11494 - Queen	UVA	[]	UVa11494
+d038	92%	990	2008-08-29	00900 - Brick Wall Patterns	UVA	[DP]	UVa900
+d186	92%	989	2009-03-21	11461 - Square Numbers	UVA	[]	UVa11461
+d098	90%	989	2008-12-22	Stringstream運用練習(C++)	BASIC	[stringstream]	說明文件出自C++ Reference
+b112	96%	988	2008-01-31	5. 高中運動會	CONTEST	[]	93學年度全國資訊學科能力競賽
+d478	74%	982	2009-10-08	共同的數 - 簡易版	BASIC	[陣列, 集合]	
+a738	86%	978	2013-08-08	最大公约数	BASIC	[GCD]	海豚原创
+d392	83%	967	2009-08-19	读取练习——强大的加法！	BASIC	[基本輸出輸入]	liouzhou_101
+c014	88%	961	2007-08-22	10035 - Primary Arithmetic	UVA	[]	UVa10035
+d189	90%	924	2009-03-21	11150 - Cola	UVA	[]	UVa11150
+a135	94%	908	2011-05-18	12250 - Language Detection	UVA	[]	UVa12250
+b130	95%	903	2008-06-26	NOIP2006 1.明明的随机数	TOI	[]	NOIP2006普及組
+d299	92%	900	2009-05-26	程式設計師的面試問題	BASIC	[窮舉]	某科技公司的面試問題
+d562	93%	898	2009-12-06	山寨版磁力蜈蚣	BASIC	[陣列]	jack1
+d658	94%	890	2010-03-13	11636 - Hello World!	UVA	[]	UVa11636
+d487	97%	849	2009-10-14	Order&#039;s computation process	ORIGINAL	[]	學姊
+a410	82%	843	2012-02-06	解方程	BASIC	[數學]	TYVJ
+d980	89%	842	2011-01-29	11479 - Is this the easiest problem?	UVA	[]	UVa11479
+d471	94%	839	2009-10-06	0 與 1 的遊戲	BASIC	[窮舉]	葆葆
+d786	95%	838	2010-09-15	三、平均值	CONTEST	[]	99學年度板橋高中校內資訊學科能力競賽
+d237	91%	835	2009-04-24	質數合	ORIGINAL	[]	Project Euler
+d294	97%	832	2009-05-25	算算算....Easy	ORIGINAL	[]	me
+d659	97%	826	2010-03-13	11727 - Cost Cutting	UVA	[]	UVa11727
+c001	84%	825	2007-10-08	10405 - Longest Common Subsequence	UVA	[DP]	UVa10405
+d255	96%	809	2009-04-26	11417 - GCD	UVA	[]	UVa11417
+a621	98%	809	2013-02-14	1. Powers of Two	CONTEST	[]	HP CodeWars2007
+b004	97%	786	2007-10-21	繩子上吃草的牛	CONTEST	[]	95學年度高雄市資訊學科能力競賽
+a240	94%	785	2011-09-21	第一題：1 / 17 小數第 n 位	CONTEST	[]	100學年度板橋高中校內資訊學科能力競賽
+c010	80%	784	2007-08-22	10107 - What is the Median?	UVA	[]	UVa10107
+a263	73%	780	2011-10-19	日期差幾天	BASIC	[曆法]	板橋高中練習題
+d448	92%	779	2009-09-21	好熱好熱	ORIGINAL	[國中數學]	Xatier
+d709	58%	761	2010-04-26	判断质数（一）	ORIGINAL	[]	判断质数系列
+a132	95%	756	2011-05-18	10931 - Parity	UVA	[]	UVa10931
+d096	94%	739	2008-12-20	00913 - Joana and the Odd Numbers	UVA	[]	UVa913
+d103	92%	737	2009-01-10	NOIP 2008 1.ISBN号码	TOI	[字串]	NOIP2008普及组复赛
+a414	91%	737	2012-02-12	位元運算之進位篇	BASIC	[加法, 進位制]	c910335
+c012	89%	721	2007-08-22	10062 - Tell me the frequencies!	UVA	[]	UVa10062
+d095	96%	706	2008-12-20	00579 - ClockHands	UVA	[]	UVa579
+b139	94%	704	2008-06-26	NOIP2005 2.校门外的树	TOI	[]	NOIP2005普及組
+c015	94%	702	2007-08-22	10018 - Reverse and Add	UVA	[]	UVa10018
+d807	98%	694	2010-10-08	方方	ORIGINAL	[]	
+b187	95%	691	2008-11-19	97七區資訊學科2(改編)	CONTEST	[]	97學年度彰雲嘉區資訊學科能力競賽
+a130	97%	691	2011-05-18	12015 - Google is Feeling Lucky	UVA	[]	UVa12015
+d318	96%	671	2009-06-07	11185 - Ternary	UVA	[]	UVa11185
+d669	95%	667	2010-03-23	11677 - Alarm Clock	UVA	[]	UVa11677
+a291	72%	664	2011-11-17	nAnB problem	BASIC	[消去法, 窮舉, 邏輯]	
+c034	91%	663	2007-10-06	00424 - Integer Inquiry	UVA	[]	UVa424
+a693	74%	659	2013-06-14	吞食天地	BASIC	[區間, 陣列]	
+d150	93%	657	2009-02-27	11369 - Shopaholic	UVA	[]	UVa11369
+d155	96%	651	2009-02-28	序章-永夜抄-A	ORIGINAL	[]	witch
+c009	98%	639	2007-08-22	10473 - Simple Base Conversion	UVA	[]	UVa10473
+d561	56%	636	2009-12-06	被秒殺的四捨五入	BASIC	[浮點數]	jack1
+c033	96%	631	2007-10-06	00406 - Prime Cuts	UVA	[]	UVa406
+d187	95%	630	2009-03-21	11530 - SMS Typing	UVA	[]	UVa11530
+d356	95%	623	2009-07-22	NOIP2002 1.级数求和	TOI	[]	NOIP2002普及组第一题
+c031	97%	613	2007-08-22	00264 - Count on Cantor	UVA	[]	UVa264
+d128	92%	605	2009-02-05	三、速算游戏	TOI	[]	NOI冬令营
+a233	81%	598	2011-09-13	排序法~~~ 挑戰極限	ORIGINAL	[排序]	24TH 成功電研社內考
+d153	84%	591	2009-02-28	六、智力测验	TOI	[]	NOI冬令营
+c036	94%	580	2007-10-23	00573 - The Snail	UVA	[]	UVa573
+a862	99%	576	2013-12-23	2. My Dear Friend VIR	CONTEST	[]	HP CodeWars2010
+d533	82%	569	2009-11-14	複數比大小	ORIGINAL	[]	by fuho
+d636	58%	560	2010-01-22	大爆炸bomb	BASIC	[數論, 餘數]	jack1
+d296	99%	560	2009-05-25	算算算....Hard	ORIGINAL	[]	me
+d244	66%	558	2009-04-24	一堆石頭	BASIC	[陣列]	
+d238	91%	558	2009-04-24	&#034;&lt;&lt;&#034;運算子真好用	ORIGINAL	[]	Project Euler
+a229	85%	554	2011-08-25	括號匹配問題	BASIC	[窮舉]	名題精選百則
+c044	94%	553	2007-08-22	10008 - What&#039;s Cryptanalysis	UVA	[]	UVa10008
+c061	76%	543	2007-10-06	00530 - Binomial Showdown	UVA	[]	UVa530
+d115	84%	541	2009-01-26	數字包牌	BASIC	[窮舉]	
+d502	92%	534	2009-10-25	第三題：產品包裝	CONTEST	[]	98學年度高雄市資訊學科能力競賽
+a417	91%	528	2012-02-14	螺旋矩陣	BASIC	[陣列]	
+d623	93%	522	2009-12-30	反方陣	BASIC	[反方陣, 數學, 矩陣]	leopan0922
+d256	90%	514	2009-04-26	11388 - GCD LCM	UVA	[]	UVa11388
+a227	92%	514	2011-09-06	三龍杯 -&gt; 河內之塔	ORIGINAL	[遞迴]	2011三龍杯 (成附建杯)
+a453	85%	509	2012-07-02	TOI2010 第一題：一元二次方程式	TOI	[]	2010TOI研習營初選
+a307	94%	508	2011-11-27	NOIP2011 1.数字反转	TOI	[]	NOIP2011普及组第一题
+c120	84%	507	2008-03-05	00623 - 500!	UVA	[]	UVa623
+a524	93%	502	2012-10-12	手機之謎	BASIC	[窮舉]	
+a251	96%	501	2011-10-01	假費波那契數	CONTEST	[]	2011成功高中校內賽初賽第一題
+d637	90%	496	2010-01-22	路過的鴨duck	BASIC	[DP]	jack1
+d670	97%	495	2010-03-23	10921 - Find the Telephone	UVA	[]	UVa10921
+d139	97%	494	2009-02-18	Compressed String	CONTEST	[]	章魚教學網站-97學年度程設馬拉松賽
+b558	96%	492	2015-09-17	求數列第 n 項	BASIC	[]	
+c055	94%	491	2007-10-06	00568 - Just the Facts	UVA	[]	UVa568
+c074	98%	490	2007-10-07	00441 - Lotto	UVA	[]	UVa441
+d055	88%	481	2008-09-18	11437 - Triangle Fun	UVA	[解析幾何]	UVa11437
+a466	93%	481	2012-05-02	12289 - One-Two-Three	UVA	[]	UVa12289
+d219	89%	477	2009-04-18	00374 - Big Mod	UVA	[]	UVa374
+d705	67%	474	2010-05-02	判断质数（二）	ORIGINAL	[]	判断质数系列
+d586	92%	460	2009-12-20	哈密瓜美語	BASIC	[字串]	jack1
+c045	87%	458	2007-08-22	00490 - Rotating Sentences	UVA	[]	UVa490
+a915	90%	455	2014-01-28	二维点排序	BASIC	[]	
+d563	81%	454	2009-12-06	等值首尾和	BASIC	[陣列]	名題精選百則
+a518	88%	450	2012-09-01	12468 - Zapping	UVA	[]	UVa12468
+d784	84%	448	2010-09-15	一、連續元素的和	CONTEST	[DP, 區間]	99學年度板橋高中校內資訊學科能力競賽
+d673	86%	444	2010-03-23	11608 - No Problem	UVA	[]	UVa11608
+c050	89%	444	2007-10-19	00453 - Goldbach&#039;s Conjecture	UVA	[]	UVa543
+d261	92%	440	2009-04-26	11000 - Bee	UVA	[]	UVa11000
+a253	96%	434	2011-10-01	王老先生的磨菇田	CONTEST	[]	2011成功高中校內賽初賽第二題
+d323	84%	432	2009-06-08	電腦-窮人的	ORIGINAL	[]	
+a271	82%	432	2011-10-20	彩色蘿蔔	BASIC	[getline, string, stringstream]	兔子
+b676	99%	431	2015-10-20	63萬勞工苦輪班不像人像機器	ORIGINAL	[]	
+d625	94%	428	2009-12-31	踩地雷真好玩	ORIGINAL	[]	jack1
+d626	93%	424	2009-12-31	小畫家真好用	BASIC	[基本輸出輸入, 陣列]	jack1
+c060	88%	421	2007-10-06	00392 - Polynomial Showdown	UVA	[]	UVa392
+d017	87%	420	2008-04-13	AB Circle	ORIGINAL	[DP]	ZHENGJianqiang
+a647	58%	420	2013-03-16	投資專家	BASIC	[浮點數, 誤差]	
+a165	94%	419	2011-08-26	Magic number	ORIGINAL	[]	愷愷
+d260	94%	418	2009-04-26	11455 - Behold my quadrangle	UVA	[]	UVa11455
+a272	66%	412	2011-10-20	猥瑣罐頭下樓梯	ORIGINAL	[]	
+a740	66%	410	2013-08-09	质因数之和	BASIC	[數論, 質數]	海豚原创
+d887	86%	405	2010-11-19	1.山脈種類(chain)	CONTEST	[]	99學年度台北市資訊學科能力競賽
+d387	93%	404	2009-08-18	10235 - Simply Emirp	UVA	[]	UVa10235
+d107	94%	402	2009-01-14	NOIP 2008 1.笨小猴	TOI	[]	NOIP2008提高组
+c087	95%	401	2008-01-31	00412 - Pi	UVA	[]	UVa412
+b231	87%	400	2009-03-25	TOI2009 第三題：書	TOI	[]	2009TOI研習營初選
+d253	96%	395	2009-04-26	00674 - Coin Change	UVA	[]	UVa674
+b150	94%	394	2008-07-04	NOIP2004 1.津津的储蓄计划	TOI	[]	NOIP2004提高組
+c081	97%	392	2008-01-31	00102 - Ecological Bin Packing	UVA	[]	UVa102
+c094	95%	391	2008-01-31	00661 - Blowing Fuses	UVA	[]	UVa661
+a241	80%	391	2011-09-21	第二題：1 / x 是有限小數	CONTEST	[]	100學年度板橋高中校內資訊學科能力競賽
+d580	79%	388	2009-12-18	末日預言	ORIGINAL	[]	raincole
+d166	88%	388	2009-03-02	反轉表	BASIC	[陣列]	w11123
+d119	91%	387	2009-02-01	有獎徵答：換零錢	BASIC	[DP]	B88000005
+d442	90%	383	2009-09-15	10591 - Happy Number	UVA	[]	UVa10591
+d452	90%	382	2009-09-23	二、直線最小距離和	CONTEST	[]	98學年度板橋高中校內資訊學科能力競賽
+d889	77%	381	2010-11-20	2.黑傑克(jack)	CONTEST	[]	99學年度台北市資訊學科能力競賽
+d133	90%	378	2009-02-07	00357 - Let Me Count The Ways	UVA	[]	UVa357
+b230	92%	372	2009-03-25	TOI2009 第二題：方便數	TOI	[]	2009TOI研習營初選
+a290	70%	369	2011-11-30	新手訓練系列 ~ 圖論	ORIGINAL	[圖論]	新手訓練系列 ~ 3
+c129	95%	368	2008-06-16	00572 - Oil Deposits	UVA	[]	UVa572
+d267	96%	366	2009-05-09	11577 - Letter Frequency	UVA	[]	UVa11577
+d681	92%	365	2010-04-01	BinaryCount	BASIC	[位元運算子, 字元處理]	葆葆
+d899	96%	364	2010-11-21	NOIP2010 1.数字统计	TOI	[]	NOIP2010普及组第一题
+b051	91%	364	2007-10-20	第二題：排列最大值	CONTEST	[]	96學年度高雄市資訊學科能力競賽
+b158	91%	362	2008-07-22	NOIP2007 1.奖学金	TOI	[]	NOIP2007普及組
+d326	95%	360	2009-06-14	程式設計師的面試問題(二)	BASIC	[位元運算子]	某科技公司的面試問題
+a623	94%	360	2013-02-14	3. Combination	CONTEST	[]	HP CodeWars2007
+d815	86%	357	2010-10-21	水火不容II	ORIGINAL	[]	
+d054	89%	357	2008-09-17	11310 - DELIVERY DEBACLE	UVA	[DP]	UVa11310
+b142	95%	355	2008-06-26	NOIP2005 1.谁拿了最多奖学金	TOI	[]	NOIP2005提高組
+b005	96%	353	2007-10-05	布林矩陣的等價短陣	CONTEST	[]	95學年度高雄市資訊學科能力競賽
+d140	63%	352	2009-02-18	On Sale	CONTEST	[]	章魚教學網站-97學年度程設馬拉松賽
+c123	93%	352	2008-06-16	00514 - Rails	UVA	[stack]	UVa514
+c121	85%	352	2008-03-05	00495 - Fibonacci Freeze	UVA	[]	UVa495
+b162	84%	351	2008-07-22	NOIP2007 1.统计数字	TOI	[]	NOIP2007提高組
+d550	75%	349	2009-11-30	物件排序	BASIC	[排序]	
+b229	85%	346	2009-03-25	TOI2009 第一題：路徑問題	TOI	[]	2009TOI研習營初選
+d091	91%	344	2008-12-19	00476 - Points in Figures: Rectangles	UVA	[]	UVa476
+b184	97%	344	2008-10-31	5. 裝貨櫃問題	CONTEST	[DP]	97學年度高雄市資訊學科能力競賽
+d672	94%	342	2010-03-23	10922 - 2 the 9s	UVA	[]	UVa10922
+b572	91%	339	2015-09-22	忘了東西的傑克	BASIC	[]	板橋高中練習題
+d527	85%	337	2009-11-13	程式設計師的面試問題(三)	BASIC	[消去法, 窮舉, 邏輯]	某科技公司面試問題
+a282	87%	336	2011-10-21	認真念書	ORIGINAL	[]	
+d787	89%	335	2010-09-15	四、進位	CONTEST	[]	99學年度板橋高中校內資訊學科能力競賽
+a528	84%	335	2012-09-11	大數排序	BASIC	[字串, 排序]	
+b140	91%	334	2008-06-26	NOIP2005 3.采药	TOI	[]	NOIP2005普及組
+b216	95%	329	2008-12-22	1. 棒球九宮格	CONTEST	[]	97學年度全國資訊學科能力競賽
+d380	81%	326	2009-08-13	10106 - Product	UVA	[]	UVa10106
+d420	96%	324	2009-08-31	00694 - The Collatz Sequence	UVA	[]	UVa694
+d535	95%	323	2009-11-14	第二題：密碼驗證與擷取	CONTEST	[]	98學年度北基區資訊學科能力競賽
+d526	92%	314	2009-11-12	Binary Search Tree (BST)	BASIC	[BST]	
+d573	92%	313	2009-12-10	CRC騎士團	BASIC	[陣列]	jack1
+d534	91%	313	2009-11-14	第一題：戰艦謎題	CONTEST	[]	98學年度北基區資訊學科能力競賽
+a519	89%	310	2012-09-01	12459 - Bees&#039; ancestors	UVA	[]	UVa12459
+d545	95%	308	2009-11-26	2. 抽紙牌（poker）	CONTEST	[]	98學年度台北市資訊學科能力競賽
+d275	85%	307	2009-05-09	11586 - Train Tracks	UVA	[]	UVa11586
+b151	86%	306	2008-07-04	NOIP2004 2.合并果子	TOI	[]	NOIP2004提高組
+b131	91%	306	2008-06-26	NOIP2006 2.开心的金明	TOI	[]	NOIP2006普及組
+d121	80%	304	2009-02-02	00583 - Prime Factors	UVA	[]	UVa583
+b758	95%	304	2015-12-15	牛仔(ㄗˇ)很忙	BASIC	[]	
+d329	93%	303	2009-06-27	00713 - Adding Reversed Numbers	UVA	[]	UVa713
+d250	97%	300	2009-04-26	94北縣賽-2-數獨問題 (Sudoku)	CONTEST	[]	94學年度北基區資訊學科能力競賽
+c085	94%	300	2008-01-31	00350 - Pseudo-Random Numbers	UVA	[]	UVa350
+d164	91%	298	2009-03-01	七、最佳选择	TOI	[]	NOI冬令营
+a539	91%	298	2012-09-26	10327 - Flip Sort	UVA	[]	UVa10327
+a445	73%	298	2012-06-14	新手訓練系列- 我的朋友很少	ORIGINAL	[disjoint set]	新手訓練系列 ~ 4
+d463	77%	297	2009-10-02	挑战极限 Part 5：开立方根	ORIGINAL	[]	liouzhou_101
+d575	75%	296	2009-12-11	末日審判	BASIC	[整數]	jack1
+b761	91%	295	2015-12-15	搶30	BASIC	[]	
+d596	92%	294	2009-12-22	1. 猜九宮格裡的地雷	CONTEST	[]	98學年度全國資訊學科能力競賽
+d281	90%	294	2009-05-13	10499 - The Land of Justice	UVA	[]	UVa10499
+a694	84%	294	2013-06-14	吞食天地二	BASIC	[區間, 陣列]	
+d264	82%	293	2009-05-04	极值问题	ORIGINAL	[數論]	著名题目
+d221	82%	293	2009-04-20	10954 - Add All	UVA	[]	UVa10954
+d574	77%	292	2009-12-11	節約符咒	BASIC	[字串]	jack1
+c073	91%	290	2007-10-07	00101 - The Blocks Problem	UVA	[]	UVa101
+b116	85%	289	2008-04-26	TOI2008 3. 加減問題	TOI	[]	2008TOI研習營初選
+c048	91%	288	2007-08-24	10161 - Ant on a Chessboard	UVA	[]	UVa10161
+d614	76%	286	2009-12-24	簡易加法運算	ORIGINAL	[字串處理]	葆葆
+d549	93%	286	2009-11-29	矩形中的几何	ORIGINAL	[勾股定理]	liouzhou_101
+a133	92%	285	2011-05-18	10066 - The Twin Towers	UVA	[]	UVa10066
+d336	75%	283	2009-07-03	一即是全、全即是一	ORIGINAL	[]	
+c119	89%	283	2008-03-05	10220 - I Love Big Numbers	UVA	[]	UVa10220
+a780	94%	280	2013-10-12	2. Magnificent Views	CONTEST	[]	HP CodeWars2008
+d337	91%	279	2009-07-05	中国字	ORIGINAL	[]	liouzhou_101
+a134	96%	279	2011-05-18	00948 - Fibonaccimal Base	UVA	[]	UVa948
+d634	81%	277	2010-01-22	魔法卡magic	BASIC	[字串, 排序]	jack1
+d750	93%	275	2010-07-08	11321 - Sort! Sort!! and Sort!!!	UVA	[]	UVa11321
+d134	60%	275	2009-02-07	00369 - Combinations	UVA	[]	UVa369
+a536	98%	273	2012-09-26	11689 - Soda Surpler	UVA	[]	UVa11689
+d123	90%	271	2009-02-03	11063 - B2-Sequence	UVA	[]	UVa11063
+a465	90%	269	2012-05-02	12405 - Scarecrow	UVA	[]	UVa12405
+d499	75%	264	2009-10-23	高手求幂题(求幂系列题5)	ORIGINAL	[數論]	scientific
+d639	47%	263	2010-01-22	企鵝村三兄弟penguin	BASIC	[數列, 數學]	jack1
+d044	91%	263	2008-09-04	00640 - Self Numbers	UVA	[]	UVa640
+d306	93%	262	2009-06-01	10193 - All You Need Is Love	UVA	[]	UVa10193
+a158	82%	260	2011-07-31	11827 - Maximum GCD	UVA	[GCD]	UVa11827
+d904	78%	259	2010-12-20	換零錢	TOI	[]	USACO2007January Competition
+a686	78%	259	2013-05-28	蝸牛往上爬	ORIGINAL	[]	
+a624	91%	258	2013-02-14	4. Password Analyzer	CONTEST	[]	HP CodeWars2007
+d040	77%	257	2008-09-01	11207 - The easiest way	UVA	[]	UVa11207
+a982	87%	257	2014-03-31	迷宮問題#1	BASIC	[窮舉]	
+b159	89%	255	2008-07-22	NOIP2007 2.纪念品分组	TOI	[]	NOIP2007普及組
+d390	84%	254	2009-08-18	00562 - Dividing coins	UVA	[]	UVa562
+b374	90%	254	2014-12-06	[福州19中]众数	BASIC	[數學]	
+b235	94%	253	2009-11-11	CSAPC&#039;09 質均數	CONTEST	[]	2009海峽兩岸青少年程式設計競賽陳伶志
+b115	92%	251	2008-04-26	TOI2008 2. 大數運算	TOI	[]	2008TOI研習營初選
+b679	75%	250	2015-10-20	棄屍 (16+)	ORIGINAL	[]	
+a737	91%	250	2013-08-31	10041 - Vito&#039;s family	UVA	[sort]	UVa10041
+d890	87%	247	2010-11-20	3.禮物分配(gift)	CONTEST	[]	99學年度台北市資訊學科能力競賽
+d566	83%	245	2009-12-07	秒殺率	BASIC	[字串]	jack1
+d436	88%	245	2009-09-12	10098 - Generating Fast, Sorted Permutation	UVA	[]	UVa10098
+d671	95%	244	2010-03-23	11716 - Digital Fortress	UVA	[]	UVa11716
+d422	98%	243	2009-08-31	2.字串處理	ORIGINAL	[]	ACM
+a695	90%	241	2013-06-17	[NOIP 2012 普及組] 1.分解质因数	TOI	[质因数分解]	NOIP2012普及組第一题
+a159	82%	241	2011-08-01	11743 - Credit Check	UVA	[]	UVa11743
+d475	52%	240	2009-10-07	玩具求幂题(求幂系列题2)	ORIGINAL	[數論]	scientific
+d328	94%	240	2009-06-27	S△=？	ORIGINAL	[]	
+c088	92%	239	2008-01-31	00516 - Prime Land	UVA	[]	UVa516
+b119	90%	238	2008-05-29	售票系統 (Sales)	CONTEST	[]	95學年度台北市資訊學科能力競賽
+a863	96%	238	2013-12-23	3. Happy Numbers	CONTEST	[]	HP CodeWars2010
+b052	90%	237	2007-10-20	第三題：設計一含小數點的十進位轉二進位的程式	CONTEST	[]	96學年度高雄市資訊學科能力競賽
+d517	62%	236	2009-11-03	文字抄寫 I	ORIGINAL	[數據轉換]	
+b759	98%	236	2015-12-15	我明明就有說過= =	BASIC	[]	
+b367	92%	235	2014-11-23	翻轉世界	BASIC	[陣列]	自己
+a218	91%	233	2011-08-12	連猴子都會的小case	ORIGINAL	[]	
+d872	75%	232	2010-11-15	過橋問題	ORIGINAL	[]	UVa10037簡易版
+d418	94%	232	2009-08-30	00993 - Product of digits	UVA	[]	UVa993
+d131	97%	232	2009-02-06	00160 - Factors and Factorials	UVA	[]	UVa160
+d093	95%	232	2008-12-20	00477 - Points in Figures: Rectangles and Circles	UVA	[]	UVa477
+a845	98%	232	2013-12-12	B.奶罐小馬買東西	CONTEST	[]	102-1延平資研社練習題
+d385	93%	231	2009-08-18	10905 - Children&#039;s Game	UVA	[]	UVa10905
+d810	92%	230	2010-10-08	大朋友下樓梯	ORIGINAL	[]	
+c117	96%	230	2008-02-27	00439 - Knight Moves	UVA	[]	UVa439
+d379	97%	229	2009-08-13	00446 - Kibbles `n&#039; Bits `n&#039; Bits `n&#039; Bits	UVA	[]	UVa446
+d674	90%	228	2010-03-23	10192 - Vacation	UVA	[]	UVa10192
+b232	81%	228	2009-03-25	TOI2009 第四題：分房子	TOI	[]	2009TOI研習營初選
+b120	82%	227	2008-05-29	函數計算 (Comp)	CONTEST	[]	95學年度台北市資訊學科能力競賽
+b001	95%	226	2007-10-05	K-間隔 (K-GAP) 子字串	CONTEST	[]	95學年度高雄市資訊學科能力競賽
+a275	83%	226	2011-10-28	字串變變變	ORIGINAL	[]	
+d501	65%	225	2009-10-25	第二題：數列最小值	CONTEST	[]	98學年度高雄市資訊學科能力競賽
+d182	97%	225	2009-03-13	00256 - Quirksome Squares	UVA	[]	UVa256
+d165	93%	224	2009-03-01	八、草场普查	TOI	[]	NOI冬令营
+a626	88%	224	2013-02-14	6. Prime Directive	CONTEST	[]	HP CodeWars2007
+c082	91%	221	2008-01-31	00118 - Mutant Flatworld Expolrers	UVA	[]	UVa118
+d482	93%	220	2009-10-11	方格取数	ORIGINAL	[]	可怕的方格取数系列
+b373	92%	220	2014-12-06	[福州19中]车厢重组	BASIC	[排序]	
+a866	97%	220	2013-12-23	6. Product Review Site	CONTEST	[]	HP CodeWars2010
+d378	91%	219	2009-08-13	最小路徑	ORIGINAL	[DP]	
+d353	99%	219	2009-07-19	幼稚數列	ORIGINAL	[Google, Logic, Math]	
+a221	89%	218	2011-08-18	11734 - Big Number of Teams will Solve This	UVA	[]	UVa11734
+d351	93%	217	2009-07-13	10878 - Decode the tape	UVA	[]	UVa10878
+c139	99%	216	2008-08-04	00291 - The House Of Santa Claus	UVA	[排列組合]	UVa291
+b757	85%	213	2015-12-15	頸美椰子樹	BASIC	[]	
+d481	52%	209	2009-10-11	矩陣乘法	ORIGINAL	[矩陣乘法]	
+d239	89%	206	2009-04-24	Problem 47	ORIGINAL	[]	Project Euler
+d141	87%	206	2009-02-18	Linearity	CONTEST	[]	章魚教學網站-97學年度程設馬拉松賽
+b161	83%	206	2008-07-22	NOIP2007 4.Hanoi双塔问题	TOI	[]	NOIP2007普及組
+d258	92%	203	2009-04-26	11313 - Gourmet Games	UVA	[]	UVa11313
+d206	85%	203	2009-03-31	00108 - Maximum Sum	UVA	[]	UVa108
+b123	88%	203	2008-05-29	最大矩形 (Area)	CONTEST	[DP]	95學年度台北市資訊學科能力競賽
+a252	95%	203	2011-10-01	Another LCS	CONTEST	[DP, LCS]	2011成功高中校內賽初賽第三題
+a824	96%	202	2013-10-31	2.藏寶問題	CONTEST	[]	100學年度桃竹苗區資訊學科能力競賽
+d324	92%	199	2009-06-12	00750 - 8 Queens Chess Problem	UVA	[]	UVa750
+a131	94%	198	2011-05-18	00739 - Soundex Indexing	UVA	[]	UVa739
+d430	77%	197	2009-09-10	第二題: 計算字數 (count)	CONTEST	[]	92學年度北基區資訊學科能力競賽
+d292	96%	197	2009-05-23	00386 - Perfect Cubes	UVA	[]	UVa386
+a622	87%	197	2013-02-14	2. Vertical Printing	CONTEST	[]	HP CodeWars2007
+d539	63%	196	2009-11-16	區間 MAX	ORIGINAL	[RMQ]	
+d130	88%	196	2009-02-06	00138 - Street Numbers	UVA	[]	UVa138
+b063	89%	194	2007-12-05	2. 衛星通訊中心	CONTEST	[]	94學年度全國資訊學科能力競賽
+d389	96%	193	2009-08-18	11069 - A Graph Problem	UVA	[]	UVa11069
+c104	97%	193	2008-02-27	00167 - The Sultan&#039;s Successors	UVA	[DFS]	UVa167
+b681	94%	193	2015-11-01	高中組第一題-山洞探險	CONTEST	[]	2015高雄市資訊學科能力競賽高中組
+b524	84%	193	2015-09-09	先別管這個了，你聽過yee嗎？	CONTEST	[]	104學年度板橋高中校內資訊學科能力競賽（一）
+a882	98%	193	2013-12-25	B. 我灰灰的橡皮鴨是個恐怖的危機	CONTEST	[]	102-1延平資研社第二次練習賽
+c091	93%	192	2008-01-31	00576 - Hiaku Review	UVA	[]	UVa576
+d914	96%	191	2010-12-23	2. 圍棋資料庫比對	CONTEST	[]	99學年度全國資訊學科能力競賽
+d908	93%	191	2010-11-23	4. 最佳路徑	CONTEST	[]	99學年度北基區資訊學科能力競賽
+c089	97%	191	2008-01-31	00389 - Basically Speaking	UVA	[]	UVa389
+b523	83%	191	2015-09-09	先別管這個了，你聽過安麗嗎？	CONTEST	[]	104學年度板橋高中校內資訊學科能力競賽（一）
+a865	97%	191	2013-12-23	5. Greek Numerals	CONTEST	[]	HP CodeWars2010
+d829	95%	190	2010-10-20	00146 - ID Codes	UVA	[]	UVa146
+b182	96%	190	2008-10-31	3. 矩形的內部與外部	CONTEST	[]	97學年度高雄市資訊學科能力競賽
+a625	96%	189	2013-02-14	5. Overhanging Cards	CONTEST	[]	HP CodeWars2007
+d217	82%	188	2009-04-16	00489 - Hangman Judge	UVA	[]	UVa489
+d214	90%	187	2009-04-15	What&#039;s the next number?	ORIGINAL	[]	Project Euler
+c124	85%	186	2008-06-16	00532 - Dungeon Master	UVA	[BFS]	UVa532
+b682	91%	186	2015-11-01	高中組第二題-同學早安	CONTEST	[]	2015高雄市資訊學科能力競賽高中組
+a864	94%	186	2013-12-23	4. Stellar Classification	CONTEST	[]	HP CodeWars2010
+d913	97%	185	2010-12-23	1. 彈珠配置	CONTEST	[]	99學年度全國資訊學科能力競賽
+c077	95%	185	2007-10-07	00417 - Word Index	UVA	[]	UVa417
+d397	87%	183	2009-08-20	00147 - Dollars	UVA	[]	UVa147
+d105	91%	183	2009-01-10	NOIP 2008 3.传球游戏	TOI	[DP]	NOIP2008普及组复赛
+c122	94%	183	2008-06-16	00443 - Humble Numbers	UVA	[]	UVa443
+d731	88%	180	2010-06-25	11039 - Building designing	UVA	[]	UVa11039
+d231	89%	179	2009-04-24	97北縣賽-2-基因序列密碼問題	CONTEST	[DP]	97學年度北基區資訊學科能力競賽
+b003	97%	178	2007-10-05	運算式 + - 符號設定問題	CONTEST	[]	95學年度高雄市資訊學科能力競賽
+a270	93%	178	2011-10-28	爬樓梯有益身心健康	ORIGINAL	[]	
+d555	80%	177	2009-12-02	平面上的極大點	BASIC	[排序]	名題精選百則
+c126	98%	177	2008-06-16	00536 - Tree Recovery	UVA	[tree]	UVa536
+d297	93%	176	2009-05-25	算算算....Lunatic	ORIGINAL	[]	me
+d266	81%	176	2009-05-08	退休的福利	ORIGINAL	[]	me
+b762	96%	176	2015-12-15	英國聯蒙	BASIC	[]	
+a867	99%	176	2013-12-23	7. Minelayer	CONTEST	[]	HP CodeWars2010
+d453	92%	175	2009-09-23	三、最短距離	CONTEST	[]	98學年度板橋高中校內資訊學科能力競賽
+c049	88%	175	2007-08-24	00356 - Square Pegs And Round Holes	UVA	[]	UVa356
+a450	48%	175	2012-04-11	棒棒糖比身高	ORIGINAL	[]	從其他題目中突發奇想~
+d132	81%	174	2009-02-07	00340 - Master-Mind Hints	UVA	[]	UVa340
+a699	81%	174	2013-06-30	1、国王的烦恼(King)	ORIGINAL	[判断质数]	abs2000模拟赛
+d287	27%	173	2009-05-16	古怪的数学家	ORIGINAL	[]	著名题目
+d224	85%	173	2009-04-22	11296 - Counting Solutions to an Integral Equation	UVA	[]	UVa11296
+d632	96%	172	2010-01-18	C and S ??	ORIGINAL	[logic]	xatier
+d362	84%	172	2009-07-25	10394 - Twin Primes	UVA	[prime]	UVa10394
+a160	90%	172	2011-06-14	祖靈想要下棋!!!!!!!!	ORIGINAL	[8皇后]	祖靈的棋魂!!!!
+d424	81%	170	2009-09-05	00105 - The Skyline Problem	UVA	[]	UVa105
+d547	94%	169	2009-11-26	4. 秘密(secrets)	CONTEST	[]	98學年度台北市資訊學科能力競賽
+a781	99%	169	2013-10-12	3. Checkerboard	CONTEST	[]	HP CodeWars2008
+d862	93%	168	2010-10-31	NOIP2001 4.装箱问题	TOI	[]	NOIP2001普及组第四题
+d188	81%	168	2009-03-21	11342 - Three-square	UVA	[]	UVa11342
+a540	93%	168	2012-09-26	10684 - The jackpot	UVA	[]	UVa10684
+d773	93%	167	2010-08-26	NOIP2009 1.多项式输出	TOI	[]	NOIP2009普及组第一题
+d468	28%	167	2009-10-05	简单求幂题(求幂系列题3)	ORIGINAL	[數論]	scientific
+a883	97%	167	2013-12-25	D.好忙好忙	CONTEST	[]	102-1延平資研社第二次練習賽
+d618	93%	165	2009-12-24	有限狀態自動機（Finite State Machine）	ORIGINAL	[]	葆葆
+c125	89%	165	2008-06-16	00534 - Frogger	UVA	[Shortest Path]	UVa534
+c110	83%	165	2008-02-27	00311 - Packets	UVA	[]	UVa311
+a289	65%	165	2011-11-11	Modular Multiplicative Inverse	ORIGINAL	[數論基礎]	
+d361	73%	163	2009-07-23	10515 - Power et al.	UVA	[]	UVa10515
+b133	95%	163	2008-06-26	NOIP2006 4.数列	TOI	[]	NOIP2006普及組
+b304	69%	162	2014-09-12	00673 - Parentheses Balance	UVA	[]	UVa673
+a537	95%	162	2012-09-26	10789 - Prime Frequency	UVA	[]	UVa10789
+d365	95%	160	2009-07-31	10336 - Rank the Languages	UVA	[]	UVa10336
+a520	96%	160	2012-09-01	12416 - Excessive Space Remover	UVA	[]	UVa12416
+c092	89%	159	2008-01-31	00587 - There&#039;s treasure everywhere!	UVA	[]	UVa587
+c135	98%	158	2008-06-16	00706 - LC-Display	UVA	[]	UVa706
+b513	78%	157	2015-09-07	判斷質數-商競103	CONTEST	[for, if, prime, sqrt]	103學年度商業類程式設計競賽模擬題
+a700	92%	157	2013-06-30	2、国王的麦子(Wheat)	ORIGINAL	[递推]	abs2000模拟赛
+a583	95%	157	2012-11-22	1. 座位距離計算問題	CONTEST	[]	101學年度北基區資訊學科能力競賽
+d438	83%	156	2009-09-12	10533 - Digit Primes	UVA	[]	UVa10533
+d307	82%	155	2009-06-01	00686 - Goldbach&#039;s Conjecture (II)	UVA	[]	UVa686
+d874	95%	154	2010-11-10	4. 階梯問題	ORIGINAL	[Math]	東區資訊科能力競賽改編
+d167	96%	154	2009-03-02	編碼轉譯	ORIGINAL	[]	UVa10878改編
+c116	98%	154	2008-02-27	00438 - The Circumference of the Circle	UVA	[]	UVa438
+b006	85%	154	2007-10-05	矩形旋轉	CONTEST	[]	95學年度高雄市資訊學科能力競賽
+a170	86%	154	2011-08-26	天才的小明	ORIGINAL	[]	愷愷
+d108	95%	153	2009-01-14	NOIP 2008 2.火柴棍等式	TOI	[穷举]	NOIP2008提高组
+d541	81%	152	2009-11-19	“∧”形排列	ORIGINAL	[數論]	某经典题目
+d790	98%	151	2010-09-17	00729 - The Hamming Distance Problem	UVA	[]	UVa729
+d396	95%	151	2009-08-20	00524 - Prime Ring Problem	UVA	[]	UVa524
+b059	90%	150	2007-12-05	4. 靈犬尋寶	CONTEST	[]	95學年度全國資訊學科能力競賽
+d768	81%	149	2010-09-25	10004 - Bicoloring	UVA	[DFS]	UVa10004
+d386	71%	148	2009-08-18	10200 - Prime Time	UVA	[]	UVa10200
+a362	95%	148	2012-01-21	1. 搬雕像	CONTEST	[]	100學年度全國資訊學科能力競賽
+a267	97%	148	2011-10-19	太空梭的油箱	CONTEST	[]	2011成功高中校內賽複賽第三題
+d645	94%	147	2010-02-10	輪下亡魂	ORIGINAL	[DP]	jack1
+b299	85%	147	2014-09-10	板條大冒險 (一)：柏油的路	CONTEST	[]	103學年度板橋高中校內資訊學科能力競賽（二）
+a587	88%	147	2013-01-07	祖靈好孝順 ˋˇˊ	ORIGINAL	[DP]	祖靈的的大背包
+a981	83%	146	2014-03-24	求和問題	BASIC	[窮舉]	
+a129	91%	146	2011-05-13	最小生成樹	ORIGINAL	[]	
+d401	86%	145	2009-08-22	B-成績單	ORIGINAL	[]	板橋高中98-2模擬測驗
+d906	93%	144	2010-11-23	2. 排座位問題	CONTEST	[]	99學年度北基區資訊學科能力競賽
+d544	80%	144	2009-11-26	1. 海藻（algae）	CONTEST	[]	98學年度台北市資訊學科能力競賽
+d542	71%	144	2009-11-19	10810 - Ultra-QuickSort	UVA	[]	UVa10810
+d417	94%	144	2009-08-30	10976 - Fractions Again?!	UVA	[]	UVa10976
+d402	86%	144	2009-08-22	1.擾亂專家	ORIGINAL	[]	
+c083	95%	143	2008-01-31	00130 - Roman Roulette	UVA	[]	UVa130
+b330	96%	143	2014-10-05	NOIP2013 1.记数问题	TOI	[]	NOIP2013普及组第一题
+d506	74%	141	2009-10-26	大师求幂题(求幂系列题9)	ORIGINAL	[數論]	scientific
+b163	91%	140	2008-07-22	NOIP2007 2.字符串的展开	TOI	[]	NOIP2007提高組
+d518	72%	139	2009-11-03	文字抄寫 II	ORIGINAL	[HASH, Trie]	
+d263	76%	139	2009-04-29	00989 - Su Doku	UVA	[]	UVa989
+d411	61%	138	2009-08-27	算了好久......	ORIGINAL	[]	愷愷
+a782	99%	138	2013-10-12	4. Redundant Acronym Syndrome Syndrome	CONTEST	[]	HP CodeWars2008
+a779	89%	138	2013-10-12	1. Reversal of Field	CONTEST	[]	HP CodeWars2008
+d686	95%	137	2010-04-08	10003 - Cutting Sticks	UVA	[]	UVa10003
+d525	63%	137	2009-11-11	加法运算	ORIGINAL	[數論]	秒
+d252	88%	137	2009-04-26	94北縣賽-4-字串處理問題 (String)	CONTEST	[]	94學年度北基區資訊學科能力競賽
+d183	89%	136	2009-03-14	00725 - Division	UVA	[]	UVa725
+c100	89%	136	2008-02-27	00116 - Unidirectional TSP	UVA	[]	UVa116
+b176	58%	135	2008-10-23	區域 Area	CONTEST	[]	2008海峽兩岸青少年程式設計競賽Tmt
+a671	88%	135	2013-05-02	00113 - Power of Cryptography	UVA	[]	UVa113
+d813	85%	134	2010-10-10	10583 - Ubiquitous Religions	UVA	[]	UVa10583
+d781	89%	134	2010-08-31	00195 - Anagram	UVA	[]	UVa195
+d702	71%	134	2010-04-17	SOS	ORIGINAL	[DP]	
+d419	83%	134	2009-08-30	00884 - Factorial Factors	UVA	[]	UVa884
+d198	62%	134	2009-03-21	00825 - Walking on the Safe Side	UVA	[DP, 排列組合]	UVa825
+b152	92%	134	2008-07-04	NOIP2004 3.合唱队形	TOI	[]	NOIP2004提高組
+b132	97%	134	2008-06-26	NOIP2006 3.Jam的计数法	TOI	[]	NOIP2006普及組
+a565	67%	134	2012-10-29	2.p&amp;q的邂逅	CONTEST	[stack]	101學年度台北市資訊學科能力競賽
+d916	93%	132	2010-12-23	4. 高空煙火時間限制	CONTEST	[]	99學年度全國資訊學科能力競賽
+d892	95%	131	2010-11-20	NOIP2010 1.机器翻译	TOI	[]	NOIP2010提高组第一题
+d282	90%	131	2009-05-13	11015 - 05-2 Rendezvous	UVA	[]	UVa11015
+b428	98%	131	2015-07-05	凱薩加密	ORIGINAL	[密碼基礎]	
+c113	92%	130	2008-02-27	00378 - Intersecting Lines	UVA	[]	UVa378
+a993	84%	130	2014-05-20	10127 - Ones	UVA	[]	UVa10127
+a538	82%	130	2012-09-26	11879 - Multiple of 17	UVA	[]	UVa11879
+d406	89%	129	2009-08-25	倒水時間	ORIGINAL	[BFS]	
+d094	90%	129	2008-12-20	00478 - Points in Figures: Rectangles and Circles, and Triangles	UVA	[]	UVa478
+c084	96%	129	2008-01-31	00275 - Expanding Fractions	UVA	[]	UVa275
+a818	94%	128	2013-10-30	1.解碼問題	CONTEST	[]	101學年度桃竹苗區資訊學科能力競賽
+b603	98%	127	2015-10-14	拋物線方程式	BASIC	[Math, 一元二次方程式]	
+d283	71%	126	2009-05-15	大數加法	ORIGINAL	[大數, 進階版]	
+d859	94%	125	2010-10-31	NOIP2001 1.数的计算	TOI	[]	NOIP2001普及组第一题
+d330	58%	125	2009-06-30	尋找質數	ORIGINAL	[]	
+c093	86%	125	2008-01-31	00608 - Counterfeit Dollar	UVA	[]	UVa608
+a746	89%	125	2013-08-27	画蛇添足	BASIC	[基本輸出輸入]	
+d860	95%	124	2010-10-31	NOIP2001 2.最大公约数和最小公倍数问题	TOI	[]	NOIP2001普及组第二题
+d809	95%	124	2010-10-08	黑暗土地	ORIGINAL	[]	
+d682	88%	123	2010-03-27	TOI2010 第三題：職棒簽約問題	TOI	[]	2010TOI研習營初選
+d652	84%	123	2010-02-24	貪婪之糊	ORIGINAL	[]	jack1
+d193	48%	123	2009-03-21	11526 - H(n)	UVA	[]	UVa11526
+d251	99%	122	2009-04-26	94北縣賽-3-羅馬數字 (Roman)	CONTEST	[]	94學年度北基區資訊學科能力競賽
+d087	77%	122	2008-12-18	00107 - The Cat in the Hat	UVA	[]	UVa107
+d177	65%	121	2009-03-08	求最小正同界角	ORIGINAL	[大數]	高中一下課程(三角函數)
+d597	98%	120	2009-12-22	2. 便當的編號與配菜組合	CONTEST	[]	98學年度全國資訊學科能力競賽
+d536	93%	120	2009-11-14	第三題：圖形迴圈偵錯問題	CONTEST	[]	98學年度北基區資訊學科能力競賽
+c069	93%	120	2007-10-07	00602 - What Day Is It?	UVA	[]	UVa602
+a879	96%	120	2013-12-25	A.君不見 黃色小鴨水上漂	CONTEST	[]	102-1延平資研社第二次練習賽
+d646	80%	119	2010-02-10	I2A的陰謀	ORIGINAL	[GCD]	jack1
+b002	91%	118	2007-10-05	關燈	CONTEST	[]	95學年度高雄市資訊學科能力競賽
+a811	79%	118	2013-10-26	2. 迷路小鴨	CONTEST	[]	102學年度高雄市資訊學科能力競賽複賽
+c114	85%	117	2008-02-27	00409 - Excuses, Excuses!	UVA	[]	UVa409
+d234	74%	116	2009-04-24	IOI研習營模考1-1新錢錢	TOI	[]	TOI
+a884	44%	116	2014-01-03	11448 - Crisis	UVA	[大數運算]	UVa11448
+c086	58%	115	2008-01-31	00402 - M*A*S*H	UVA	[]	UVa402
+b183	83%	115	2008-10-31	4. 制服發放	CONTEST	[]	97學年度高雄市資訊學科能力競賽
+a522	94%	115	2012-09-01	12455 - Bars	UVA	[]	UVa12455
+d492	89%	114	2009-10-20	10226 - Hardwood species	UVA	[]	UVa10226
+a743	85%	114	2013-09-01	10420 - List of Conquests	UVA	[]	UVa10420
+a467	96%	114	2012-05-02	11398 - The Base-1 Number System	UVA	[]	UVa11398
+a299	95%	114	2011-11-26	NOIP2011 Day1.1.铺地毯	TOI	[]	NOIP2011提高组Day1第一题
+d777	86%	113	2010-08-26	NOIP2009 1.潜伏者	TOI	[]	NOIP2009提高组第一题
+d667	89%	113	2010-03-23	00820 - Internet Bandwidth	UVA	[]	UVa820
+d369	97%	113	2009-08-11	1. 羅馬數字	CONTEST	[]	96學年度全國資訊學科能力競賽
+d289	84%	113	2009-05-17	多元一次方程式	ORIGINAL	[DP]	me
+b218	90%	113	2008-12-22	3. 找關鍵人物	CONTEST	[]	97學年度全國資訊學科能力競賽
+b160	85%	113	2008-07-22	NOIP2007 3.守望者的逃离	TOI	[]	NOIP2007普及組
+a249	82%	113	2011-10-15	00679 - Dropping Balls	UVA	[Divide And Conquer, tree]	UVa679
+d644	45%	112	2010-02-10	壞脾氣小小皮	ORIGINAL	[DP]	jack1
+c106	82%	112	2008-02-27	00271 - Simply Syntax	UVA	[]	UVa271
+b122	95%	112	2008-05-29	用餐地點 (Lunch)	CONTEST	[]	95學年度台北市資訊學科能力競賽
+a364	98%	112	2012-01-22	2. 神秘的進位問題	CONTEST	[]	100學年度全國資訊學科能力競賽
+d366	86%	111	2009-08-01	00294 - Divisors	UVA	[]	UVa294
+d157	93%	111	2009-03-01	序章-永夜抄-B	ORIGINAL	[]	witch
+c108	85%	111	2008-02-27	00305 - Joseph	UVA	[]	UVa305
+b219	82%	111	2008-12-22	4. 工作順序問題	CONTEST	[]	97學年度全國資訊學科能力競賽
+d875	91%	109	2010-11-11	4. 窮舉的階梯問題	ORIGINAL	[Greedy]	國立台灣師範大學
+d615	89%	109	2009-12-24	計算機運算	ORIGINAL	[]	葆葆
+a628	97%	109	2013-02-14	8. Number Spiral	CONTEST	[]	HP CodeWars2007
+d873	81%	108	2010-11-08	00465 - Overflow	UVA	[大數運算]	UVa465
+d792	92%	108	2010-09-17	11463 - Commandos	UVA	[]	UVa11463
+c101	91%	108	2008-02-27	00122 - Trees on the level	UVA	[]	UVa122
+b455	96%	108	2015-07-22	請輸出這張圖片的RGB數值（難度↓）	ORIGINAL	[影像處理]	
+b117	82%	108	2008-04-26	TOI2008 4. 地道問題	TOI	[]	2008TOI研習營初選
+d804	74%	107	2010-10-08	好餓	ORIGINAL	[]	
+d486	90%	107	2009-10-14	Fibonacci &#039;s computation process	ORIGINAL	[]	學姊
+b110	96%	107	2008-01-31	3. 黑白影像的四分樹表示法	CONTEST	[]	93學年度全國資訊學科能力競賽
+b062	90%	107	2007-12-05	1. 城市道路連通網	CONTEST	[]	94學年度全國資訊學科能力競賽
+a308	82%	107	2011-11-27	NOIP2011 2.统计单词数	TOI	[]	NOIP2011普及组第二题
+d265	85%	106	2009-05-08	10165 - Stone Game	UVA	[]	UVa10165
+c128	89%	106	2008-06-16	00544 - Heavy Cargo	UVA	[Shortest Path]	UVa544
+b148	95%	106	2008-07-04	NOIP2004 3.FBI树	TOI	[]	NOIP2004普及組
+d192	83%	105	2009-03-21	11351 - Last Man Standing	UVA	[]	UVa11351
+c130	91%	105	2008-06-16	00574 - Sum It Up	UVA	[]	UVa574
+d793	69%	104	2010-09-17	00929 - Number Maze	UVA	[]	UVa929
+d395	59%	104	2009-08-20	10519 - !!REALLY STRANGE!!	UVA	[]	UVa10519
+b108	90%	104	2008-01-31	1. 銀河帝國旅行社	CONTEST	[]	93學年度全國資訊學科能力競賽
+a702	63%	104	2013-07-03	Cousin Primes	ORIGINAL	[數論, 質數]	
+d903	56%	103	2010-11-25	數學達人	ORIGINAL	[]	me
+d262	87%	103	2009-04-28	Problem 47 HARD	ORIGINAL	[]	Project Euler
+d715	54%	102	2010-05-24	階乘 -- 最後一位非零數(進階版)	ORIGINAL	[數論]	
+d708	78%	102	2010-04-25	小王的积木	ORIGINAL	[]	d578.小涵的积木 简易版
+d308	39%	102	2009-06-03	巧克力冒險工廠	ORIGINAL	[]	
+a517	31%	102	2012-08-28	Freak大危機!!!	ORIGINAL	[數學]	Crazy小螃蟹
+d900	96%	101	2010-11-21	NOIP2010 2.接水问题	TOI	[]	NOIP2010普及组第二题
+d854	96%	101	2010-10-31	NOIP2001 1.一元三次方程求解	TOI	[]	NOIP2001提高组第一题
+d279	96%	101	2009-05-11	00280 - Vertex	UVA	[]	UVa280
+d191	87%	101	2009-03-21	11352 - Crazy King	UVA	[]	UVa11352
+a741	86%	101	2013-09-01	10101 - Bangla Numbers	UVA	[]	UVa10101
+b050	93%	100	2007-10-20	第一題：集合運算	CONTEST	[]	96學年度高雄市資訊學科能力競賽
+a454	85%	100	2012-07-02	TOI2010 第二題：專案時程	TOI	[]	2010TOI研習營初選
+d479	96%	99	2009-10-08	星级青蛙	ORIGINAL	[]	vijos P1182
+c111	91%	99	2008-02-27	00315 - Network	UVA	[]	UVa315
+a535	82%	99	2012-09-26	10141 - Request for Proposal	UVA	[]	UVa10141
+a468	80%	99	2012-05-02	12439 - February 29	UVA	[]	UVa12439
+d923	88%	98	2010-12-26	規律	ORIGINAL	[]	
+d703	92%	98	2010-04-17	SOS ~~~	ORIGINAL	[Permutation]	
+d643	83%	98	2010-02-10	勞動的符咒	BASIC	[字串, 排序]	jack1
+d404	91%	98	2009-08-23	10285 - Longest Run on a Snowboard	UVA	[]	UVa10285
+d368	82%	97	2009-08-10	10196 - Check the Check	UVA	[]	UVa10196
+d089	92%	97	2008-12-19	00145 - Gondwanaland Telecom	UVA	[]	UVa145
+c127	94%	97	2008-06-16	00537 - Artificial Intelligence	UVA	[]	UVa537
+a541	92%	97	2012-09-27	字典	ORIGINAL	[]	
+a223	87%	97	2011-08-19	10298 - Power Strings	UVA	[]	UVa10298
+a217	71%	97	2011-08-12	caps lock的災難	ORIGINAL	[]	
+d868	89%	95	2010-11-07	NOIP2000 1.计算器的改良	TOI	[]	NOIP2000普及组第一题
+d791	86%	95	2010-09-17	00756 - Biorhythms	UVA	[]	UVa756
+d285	79%	95	2009-05-15	00727 - Postfix Expression	UVA	[]	UVa727
+d104	84%	95	2009-01-10	NOIP 2008 2.排座位	TOI	[排序]	NOIP2008普及组复赛
+b557	96%	95	2015-09-17	直角三角形	BASIC	[]	
+d925	90%	94	2010-12-26	平均高度	ORIGINAL	[]	
+d242	72%	93	2009-04-24	00481 - What Goes Up	UVA	[]	UVa481
+a242	65%	93	2011-09-21	第三題：絕對值總和的最小值	CONTEST	[]	100學年度板橋高中校內資訊學科能力競賽
+d656	96%	92	2010-03-12	11597 - Spanning Subtree	UVA	[]	UVa11597
+c131	90%	92	2008-06-16	00615 - Is It A Tree?	UVA	[]	UVa615
+c115	99%	92	2008-02-27	00437 - The Tower of Babylon	UVA	[]	UVa437
+a091	51%	92	2011-04-05	今晚打老虎	ORIGINAL	[Deap, heap, min-max heap]	
+d109	89%	91	2009-01-14	NOIP 2008 3.传纸条	TOI	[DP]	NOIP2008提高组
+b134	83%	91	2008-06-26	NOIP2006 1.能量项链	TOI	[]	NOIP2006提高組
+d655	62%	90	2010-03-12	許胖公仔	ORIGINAL	[反證法]	
+d537	96%	90	2009-11-14	第四題：染色遊戲	CONTEST	[]	98學年度北基區資訊學科能力競賽
+d462	62%	90	2009-10-02	幸运的朋友(求幂系列题6)	ORIGINAL	[數論]	scientific
+d431	84%	90	2009-09-10	第三題: 賓果遊戲 (bingo)	CONTEST	[]	92學年度北基區資訊學科能力競賽
+d357	95%	90	2009-07-22	NOIP2002 2.选数	TOI	[]	NOIP2002普及组第二题
+d347	92%	90	2009-07-08	00847 - A Multiplication Game	UVA	[]	UVa847
+d174	95%	90	2009-03-06	10297 - Beavergnaw	UVA	[]	UVa10297
+b128	90%	90	2008-05-29	序列長度問題（Sequence）	CONTEST	[]	96學年度台北市資訊學科能力競賽
+b135	82%	89	2008-06-26	NOIP2006 2.金明的预算方案	TOI	[]	NOIP2006提高組
+a828	91%	89	2013-11-01	間隔數 ( number )	CONTEST	[]	102學年度台北市資訊學科能力競賽
+d269	88%	88	2009-05-09	11579 - Triangle Trouble	UVA	[]	UVa11579
+d042	95%	88	2008-09-03	11420 - Chest of Drawers	UVA	[]	UVa11420
+a810	31%	88	2013-10-26	1. 倍數關係	CONTEST	[GCD]	102學年度高雄市資訊學科能力競賽複賽
+a286	87%	88	2011-10-28	難道這就是命中注定	ORIGINAL	[]	
+d195	76%	87	2009-03-21	11495 - Bubbles and Buckets	UVA	[]	UVa11495
+b147	96%	87	2008-07-04	NOIP2004 2.花生采摘	TOI	[]	NOIP2004普及組
+a673	95%	87	2013-05-02	10026 - Shoemaker&#039;s Problem	UVA	[]	UVa10026
+d473	58%	86	2009-10-06	秒杀求幂题(求幂系列题4)	ORIGINAL	[數論]	scientific
+c133	95%	86	2008-06-16	00639 - Don&#039;t Get Rooked	UVA	[]	UVa639
+b233	67%	86	2009-03-25	TOI2009 第五題：謠言問題	TOI	[]	2009TOI研習營初選
+a674	95%	86	2013-05-02	10048 - Audiophobia	UVA	[]	UVa10048
+b309	84%	85	2014-09-13	聖杯戰爭	CONTEST	[]	103學年度板橋高中校內資訊學科能力競賽（三）
+b181	81%	85	2008-10-31	2. 網路設計	CONTEST	[]	97學年度高雄市資訊學科能力競賽
+b149	91%	85	2008-07-04	NOIP2004 4.火星人	TOI	[]	NOIP2004普及組
+a676	91%	85	2013-05-02	00111 - History Grading	UVA	[]	UVa111
+d371	90%	84	2009-08-11	3. Huffman 編碼中的編碼效能問題	CONTEST	[]	96學年度全國資訊學科能力競賽
+b514	99%	84	2015-09-08	解二元一次聯立方程式之根-商競103	CONTEST	[for, 二元一次]	103學年度商業類程式設計競賽模擬題
+a831	88%	84	2013-11-04	1、地砖摆放	ORIGINAL	[模拟]	备战Noip 2013模拟赛系列
+a664	67%	84	2013-04-23	四則運算	ORIGINAL	[堆疊]	
+d788	65%	83	2010-09-26	排名順序	ORIGINAL	[AVL, BIT, ST]	
+b884	87%	83	2016-10-02	電腦教室的傑克	BASIC	[]	
+b121	90%	83	2008-05-29	井字遊戲 (TTT)	CONTEST	[]	95學年度台北市資訊學科能力競賽
+b516	98%	82	2015-09-08	凱撒密碼-商競103	CONTEST	[%, if]	103學年度商業類程式設計競賽模擬題
+b172	84%	82	2008-10-23	雷曼兔	CONTEST	[]	2008海峽兩岸青少年程式設計競賽
+d762	90%	81	2010-08-14	10344 - 23 out of 5	UVA	[]	UVa10344
+d704	98%	81	2010-04-17	Fibonacci 進制轉換	ORIGINAL	[]	學姊
+c134	95%	81	2008-06-16	00668 - Parliament	UVA	[]	UVa668
+b111	99%	81	2008-01-31	4. 經濟編碼	CONTEST	[]	93學年度全國資訊學科能力競賽
+b055	90%	81	2007-10-20	第六題：吸血鬼數（Vampire Number）	CONTEST	[]	96學年度高雄市資訊學科能力競賽
+d835	89%	80	2010-10-24	NOIP2003 1.乒乓球	TOI	[]	NOIP2003普及组第一题
+b307	83%	80	2014-09-12	極．板條大冒險 (三)：廖氏如神之門	CONTEST	[]	103學年度板橋高中校內資訊學科能力競賽（四）
+b185	94%	80	2008-10-31	6. 按鈕問題	CONTEST	[]	97學年度高雄市資訊學科能力競賽
+a881	88%	80	2013-12-25	C.什麼？油漆有毒？	CONTEST	[]	102-1延平資研社第二次練習賽
+a470	96%	80	2012-05-02	12406 - Help Dexter	UVA	[]	UVa12406
+d817	53%	79	2010-10-15	Pascal&#039;s triangle&#039;s secret (I)	ORIGINAL	[]	
+d808	91%	78	2010-10-08	黑暗部落	ORIGINAL	[]	
+d270	95%	78	2009-05-09	11581 - Grid Successors	UVA	[]	UVa11581
+c098	95%	78	2008-02-27	00106 - Fermat vs. Pythagoras	UVA	[]	UVa106
+b540	90%	78	2015-09-13	這個六邊形，看完後我都驚呆了	CONTEST	[]	104學年度板橋高中校內資訊學科能力競賽（二），Codeforces560C
+d915	95%	77	2010-12-23	3. 洗街車路線問題	CONTEST	[]	99學年度全國資訊學科能力競賽
+d227	70%	77	2009-04-23	97北縣賽-1-正弦三角函數	CONTEST	[]	97學年度北基區資訊學科能力競賽
+d088	89%	77	2008-12-19	00127 - &#034;Accordian&#034; Patience	UVA	[]	UVa127
+b578	46%	77	2015-09-24	一個角	CONTEST	[]	嘉義高中104資料學科能力競賽
+d459	94%	76	2009-09-29	一棵小樹	ORIGINAL	[DP]	
+c096	92%	76	2008-01-31	00700 - Date Bugs	UVA	[]	UVa700
+b288	79%	76	2014-09-05	夏季大三角	CONTEST	[]	103學年度板橋高中校內資訊學科能力競賽（一）
+a349	95%	76	2011-12-15	2. 指令解譯器	CONTEST	[]	100學年度北基區資訊學科能力競賽
+a228	87%	76	2011-08-22	就少一個插座用很不方便	CONTEST	[DP]	2008 “Sunline Cup” National Invitational Contest
+d456	60%	75	2009-09-25	社辦合併	ORIGINAL	[陣列、字串處理]	raincole
+c102	96%	75	2008-02-27	00128 - Software CRC	UVA	[]	UVa128
+a348	91%	75	2011-12-15	1. 貪食蛇	CONTEST	[]	100學年度北基區資訊學科能力競賽
+a276	71%	75	2011-10-21	又分糖果囉	ORIGINAL	[]	
+d885	80%	74	2010-11-18	NOIP2007 1.統計數字 番外篇	ORIGINAL	[AVL, HASH, Splay tree]	
+d394	92%	74	2009-08-19	00748 - Exponentiation	UVA	[]	UVa748
+d370	92%	74	2009-08-11	2. 盤中飧	CONTEST	[]	96學年度全國資訊學科能力競賽
+b179	60%	74	2008-10-23	空罐 Cans	CONTEST	[]	2008海峽兩岸青少年程式設計競賽AkiraNanase
+a280	86%	74	2011-10-21	小朋友上樓梯	ORIGINAL	[]	
+d774	91%	73	2010-08-26	NOIP2009 2.分数线划定	TOI	[]	NOIP2009普及组第二题
+d223	61%	73	2009-04-20	10137 - The Trip	UVA	[]	UVa10137
+b298	65%	73	2014-09-09	老闆阿我要退貨	CONTEST	[]	103學年度板橋高中校內資訊學科能力競賽（一）
+b190	65%	73	2008-11-19	97七區資訊學科5(改編)	CONTEST	[河內塔, 遞迴]	97學年度彰雲嘉區資訊學科能力競賽
+d828	87%	72	2010-10-20	Pascal&#039;s triangle&#039;s secret (II)	ORIGINAL	[]	
+d713	46%	72	2010-05-19	中位数	ORIGINAL	[]	UVa10107加強版
+d465	73%	72	2009-10-04	不幸的你(求幂系列题7)	ORIGINAL	[數論]	scientific
+b310	57%	72	2014-09-14	英靈召喚	CONTEST	[]	103學年度板橋高中校內資訊學科能力競賽（三）
+d898	96%	71	2010-11-20	10128 - Queue	UVA	[]	UVa10128
+d335	95%	71	2009-07-01	10009 - All Roads Lead Where?	UVA	[]	UVa10009
+d118	46%	71	2009-01-31	一串數字	ORIGINAL	[]	
+a830	85%	71	2013-11-01	超級細菌( bacteria )	CONTEST	[]	102學年度台北市資訊學科能力競賽
+a388	92%	71	2012-01-29	00580 - Critical Mass	UVA	[]	UVA 580
+a254	83%	71	2011-10-01	畢氏‧三角‧製造	CONTEST	[]	2011成功高中校內賽初賽第四題
+a144	97%	71	2011-06-07	整數分拆	ORIGINAL	[]	Netsphere | Wiki
+d918	83%	70	2010-12-23	6. 雨量趨勢	CONTEST	[]	99學年度全國資訊學科能力競賽
+d375	80%	70	2009-08-11	10364 - Square	UVA	[DFS]	UVa10364
+c109	69%	70	2008-02-27	00306 - Cipher	UVA	[]	UVa306
+b118	78%	70	2008-04-26	TOI2008 5. 彩色區塊	TOI	[]	2008TOI研習營初選
+a753	97%	70	2013-09-18	一、最大面積	CONTEST	[]	102學年度板橋高中校內資訊學科能力競賽
+d633	99%	69	2010-01-21	幼稚王國的麥田圖騰	ORIGINAL	[]	國王某天在筆記本畫的 XD
+d504	96%	69	2009-10-25	第五題：超立方體的路徑問題	CONTEST	[]	98學年度高雄市資訊學科能力競賽
+b574	96%	69	2015-09-24	進德教育	CONTEST	[]	104學年度板橋高中校內資訊學科能力競賽（五）
+b511	95%	69	2015-09-07	換銅板	BASIC	[一維陣列, 排序]	清華 MOOCs 2014 程式設計導論期末考
+a469	97%	69	2012-05-02	10063 - Knuth&#039;s Permutation	UVA	[]	UVa10063
+d451	76%	68	2009-09-23	一、科學記號	CONTEST	[]	98學年度板橋高中校內資訊學科能力競賽
+d421	89%	68	2009-08-31	00332 - Rational Numbers from Repeating Fractions	UVA	[]	UVa332
+a821	97%	68	2013-10-30	4.王者之路	CONTEST	[]	101學年度桃竹苗區資訊學科能力競賽
+a302	79%	68	2011-11-26	NOIP2011 Day2.1.计算系数	TOI	[]	NOIP2011提高组Day2第一题
+d718	77%	67	2010-05-26	Waiting In Line	ORIGINAL	[]	
+d446	26%	67	2009-09-19	生成因數	ORIGINAL	[Factorization, Math]	
+b066	93%	67	2007-12-05	5. 六芒星棋遊戲：先還是後比較有利？	CONTEST	[]	94學年度全國資訊學科能力競賽
+d855	94%	66	2010-10-31	NOIP2001 2.数的划分	TOI	[]	NOIP2001提高组第二题
+d663	67%	66	2010-03-23	11730 - Number Transformation	UVA	[]	UVa11730
+d619	55%	66	2009-12-27	奇摩知識	ORIGINAL	[Math, Recursive]	
+d432	97%	66	2009-09-10	第四題：通關密語 (pwd)	CONTEST	[]	92學年度北基區資訊學科能力競賽
+d334	88%	66	2009-06-30	阿尼亞的煩惱-2	ORIGINAL	[]	andy3466
+d106	99%	66	2009-01-10	NOIP 2008 4.立体图	TOI	[]	NOIP2008普及组复赛
+b581	80%	66	2015-09-28	一串加	CONTEST	[]	嘉義高中104資料學科能力競賽
+d512	88%	65	2009-10-30	創造數字	ORIGINAL	[BST, DP, HASH]	
+b532	98%	65	2015-09-09	字串處理	CONTEST	[字串處理]	102學年度商業類程式設計競賽
+d893	97%	64	2010-11-20	NOIP2010 2.乌龟棋	TOI	[]	NOIP2010提高组第二题
+d760	93%	64	2010-08-14	10330 - Power Transmission	UVA	[]	UVa10330
+d352	97%	64	2009-07-13	10957 - So Doku Checker	UVA	[]	UVa10957
+d309	74%	64	2009-06-03	Put a banana in your ear!	ORIGINAL	[]	
+b512	100%	64	2015-09-07	高維度稀疏向量	BASIC	[向量, 特殊輸入]	清華 MOOCs 2014 程式設計導論期末考
+b065	89%	64	2007-12-05	4. 滿漢全席	CONTEST	[]	94學年度全國資訊學科能力競賽
+a521	93%	64	2012-09-01	12414 - Calculating Yuan Fen	UVA	[]	UVa12414
+d598	79%	63	2009-12-22	3. 尋寶問題	CONTEST	[]	98學年度全國資訊學科能力競賽
+d443	77%	63	2009-09-15	10497 - Sweet Child Makes Trouble	UVA	[]	UVa10497
+d440	74%	63	2009-09-13	10299 - Relatives	UVA	[]	UVa10299
+b701	95%	63	2015-11-11	我的領土有多大	BASIC	[]	
+b124	90%	63	2008-05-29	送愛心到肯大亞 (Care)	CONTEST	[]	95學年度台北市資訊學科能力競賽
+a785	100%	63	2013-10-12	7. It&#039;s All Greek To Me	CONTEST	[]	HP CodeWars2008
+a456	91%	63	2012-04-17	子集合	ORIGINAL	[DFS]	狗狗
+a451	85%	63	2012-06-16	10229 - Modular Fibonacci	UVA	[]	UVa10299
+d831	91%	62	2010-10-22	畢業旅行	ORIGINAL	[]	
+d794	65%	62	2010-09-28	世界排名	ORIGINAL	[AVL, BIT, Discretization, ST]	
+d624	93%	62	2009-12-30	燈泡問題	ORIGINAL	[]	TIOJ
+d548	97%	62	2009-11-26	5. 購物網站（web）	CONTEST	[]	98學年度台北市資訊學科能力競賽
+d312	86%	62	2009-06-04	抓兔子	ORIGINAL	[]	
+b538	91%	62	2015-09-12	分數運算-2	BASIC	[gcd, switch, 分數, 巢狀if]	分數四則
+d311	95%	61	2009-06-04	數學少女的難題	ORIGINAL	[]	
+d286	70%	61	2009-05-16	00193 - Graph Coloring	UVA	[]	UVa193
+a365	88%	61	2012-01-22	3. 新井字遊戲	CONTEST	[]	100學年度全國資訊學科能力競賽
+d799	85%	60	2010-10-03	区间求和	ORIGINAL	[线段树]	
+d691	71%	60	2010-04-15	00496 - Simply Subsets	UVA	[]	UVa496
+d613	97%	60	2009-12-23	Prime Gap	ORIGINAL	[]	ICPC
+d445	88%	60	2009-09-17	C-分堆大考驗	TOI	[]	USACO
+c112	78%	60	2008-02-27	00348 - Optimal Array Multiplication Sequence	UVA	[DP]	UVa348
+a787	94%	60	2013-10-12	9. Mirror to the Stars	CONTEST	[]	HP CodeWars2008
+d907	91%	59	2010-11-23	3. 城市走法計數	CONTEST	[]	99學年度北基區資訊學科能力競賽
+d767	87%	59	2010-08-16	血緣關係	ORIGINAL	[LCA, RMQ]	
+d364	87%	59	2009-07-29	10637 - Coprimes	UVA	[DFS]	UVa10637
+b680	92%	59	2015-10-27	百米賽道編排	BASIC	[]	
+a870	98%	59	2013-12-23	10. List Maker	CONTEST	[]	HP CodeWars2010
+a697	94%	59	2013-06-19	[NOIP 2012 普及組] 3.摆花	TOI	[DP, 动态规划]	NOIP2012普及組第三题
+a259	94%	59	2011-10-17	10917 - A Walk Through the Forest	UVA	[]	UVa10917
+d850	92%	58	2010-10-29	NOIP2002 1.均分纸牌	TOI	[]	NOIP2002提高组第一题
+c132	95%	58	2008-06-16	00619 - Numerically Speaking	UVA	[]	UVa619
+b860	84%	58	2016-09-12	獨角蟲進化計算器	BASIC	[]	板橋高中教學題
+b143	74%	58	2008-06-26	NOIP2005 2.过河	TOI	[]	NOIP2005提高組
+a871	88%	58	2013-12-23	11. Museum Area	CONTEST	[]	HP CodeWars2010
+d665	86%	57	2010-03-23	數字合併	ORIGINAL	[]	TIOJ1225
+b058	93%	57	2007-12-05	3. 關鍵邏輯閘	CONTEST	[]	95學年度全國資訊學科能力競賽
+a825	88%	57	2013-10-31	3.小四數學	CONTEST	[]	100學年度桃竹苗區資訊學科能力競賽
+a597	77%	57	2013-01-09	祖靈被榨乾了!!!!!!!!	ORIGINAL	[BFS]	成為祖靈的祖靈
+a300	83%	57	2011-11-26	NOIP2011 Day1.2.选择客栈	TOI	[]	NOIP2011提高组Day1第二题
+d712	16%	56	2010-05-13	The 3n + 1 problem	ORIGINAL	[]	ms0472904
+d472	97%	56	2009-10-06	算術基本原理	ORIGINAL	[mod, 分治法]	Zetadavid
+b587	93%	56	2015-09-30	10918 - Tri Tiling	UVA	[uva]	uva10918
+b580	92%	56	2015-09-28	一條蛇	CONTEST	[]	嘉義高中104資料學科能力競賽
+b541	92%	56	2015-09-13	看到這樣的分布，網友們都驚呆了	CONTEST	[]	104學年度板橋高中校內資訊學科能力競賽（二）
+b164	79%	56	2008-07-22	NOIP2007 3. 矩阵取数游戏	TOI	[]	NOIP2007提高組
+b061	85%	56	2007-12-05	6. 糊塗情報員	CONTEST	[]	95學年度全國資訊學科能力競賽
+a941	69%	56	2014-02-20	10041 - Vito&#039;s large family	UVA	[]	UVa10041
+d901	68%	55	2010-11-21	NOIP2010 3.导弹拦截	TOI	[]	NOIP2010普及组第三题
+d847	65%	55	2010-10-28	2D rank finding problem	CONTEST	[BIT, ST]	98學年度中投區資訊學科能力競賽
+d789	98%	55	2010-09-17	00920 - Sunny Mountains	UVA	[]	UVa920
+d543	65%	55	2009-11-22	挑战极限 Part7：强大的N皇后	ORIGINAL	[8皇后]	N皇后问题的终极优化
+d423	79%	55	2009-09-01	10856 - Recover Factorial	UVA	[]	UVa10856
+b515	95%	55	2015-09-08	摩斯電碼-商競103	CONTEST	[STL-map, getline, istringstream, 搜尋, 陣列]	103學年度商業類程式設計競賽模擬題
+a995	81%	55	2014-05-20	10287 - Gifts in a Hexagonal Box	UVA	[]	UVa10287
+a813	74%	55	2013-10-26	4. 城市觀測	CONTEST	[]	102學年度高雄市資訊學科能力競賽複賽
+a457	74%	55	2012-07-02	TOI2010 第五題：餐廳評鑑	TOI	[]	2010TOI研習營初選
+d910	84%	54	2010-12-05	數學達人2	ORIGINAL	[]	me
+d747	67%	54	2010-08-19	迷宮路徑	ORIGINAL	[A*]	
+d232	92%	54	2009-04-24	97北縣賽-3-資料統計問題	CONTEST	[]	97學年度北基區資訊學科能力競賽
+d228	72%	54	2009-04-24	kill man	ORIGINAL	[]	
+b837	96%	54	2016-06-18	104北二1費氏數列	CONTEST	[費氏數列]	104北二區桃竹苗基資訊學科能力複賽
+b291	84%	54	2014-09-05	生態調查	CONTEST	[]	103學年度板橋高中校內資訊學科能力競賽（一）
+a667	28%	54	2013-06-07	可怕的除法	ORIGINAL	[大數, 陣列]	高精度著名題目
+a264	93%	54	2011-10-28	骰子疊疊樂	ORIGINAL	[]	
+a868	95%	53	2013-12-23	8. St. Ives	CONTEST	[]	HP CodeWars2010
+a784	98%	53	2013-10-12	6. PERLs Before Swine	CONTEST	[]	HP CodeWars2008
+a759	95%	53	2013-09-18	三、N進位	CONTEST	[]	102學年度板橋高中校內資訊學科能力競賽
+a696	84%	53	2013-06-17	[NOIP 2012 普及組] 2.寻宝	TOI	[模拟]	NOIP2012普及組第二题
+d775	87%	52	2010-08-26	NOIP2009 3.细胞分裂	TOI	[]	NOIP2009普及组第三题
+d359	95%	52	2009-07-23	快算面積	ORIGINAL	[]	david
+d233	78%	52	2009-04-24	97北縣賽-4-金幣問題	CONTEST	[]	97學年度北基區資訊學科能力競賽
+c095	43%	52	2008-01-31	00665 - False coin	UVA	[]	UVa665
+b180	80%	52	2008-10-31	1. 遊園接駁車	CONTEST	[]	97學年度高雄市資訊學科能力競賽
+a631	98%	52	2013-02-14	11. LED Decoder	CONTEST	[]	HP CodeWars2007
+a174	90%	52	2011-07-07	上帝玩不玩骰子？	ORIGINAL	[Hash Table]	
+d441	80%	51	2009-09-15	10780 - Again Prime? No time.	UVA	[]	UVa10780
+d314	58%	51	2009-06-05	海星	ORIGINAL	[]	
+d295	94%	51	2009-05-25	算算算....Normal	ORIGINAL	[]	聯考
+d230	74%	51	2009-04-24	IOI研習營模考2-1三元樹	TOI	[]	TOI
+a627	100%	51	2013-02-14	7. RAID Sizer	CONTEST	[]	HP CodeWars2007
+a513	91%	51	2012-06-08	最大值	ORIGINAL	[]	狗狗
+d647	96%	50	2010-02-12	2的次方表示数	ORIGINAL	[]	
+b542	56%	50	2015-09-13	聽到這兩個人的身高，讓十萬人都驚呆了	CONTEST	[]	104學年度板橋高中校內資訊學科能力競賽（二）
+b060	83%	50	2007-12-05	5. 快遞服務	CONTEST	[]	95學年度全國資訊學科能力競賽
+d909	88%	49	2010-11-26	公路局局長的煩惱！？	ORIGINAL	[]	Netsphere.
+d648	62%	49	2010-02-12	国际象棋(knight)	ORIGINAL	[]	某竞赛原题
+d434	82%	49	2009-09-12	禁9出现	ORIGINAL	[]	数学难题
+d400	82%	49	2009-08-22	A-排列組合	ORIGINAL	[]	板橋高中98-2模擬測驗
+d273	79%	49	2009-05-09	11584 - Partitioning by Palindromes	UVA	[DP]	UVa11584
+b553	96%	49	2015-09-16	4.Collatz 問題	CONTEST	[]	103學年度桃竹苗區資訊學科能力競賽
+b165	98%	49	2008-07-22	NOIP2007 4. 树网的核	TOI	[]	NOIP2007提高組
+a786	94%	49	2013-10-12	8. 1337 XL8T0RZ	CONTEST	[]	HP CodeWars2008
+a261	88%	49	2011-10-19	10934 - Dropping water balloons	UVA	[]	UVa10934
+d849	92%	48	2010-10-29	NOIP2002 4.过河卒	TOI	[]	NOIP2002普及组第四题
+d668	51%	48	2010-03-23	奇怪的老闆	ORIGINAL	[]	
+d546	96%	48	2009-11-26	3. 剪多邊形（molding）	CONTEST	[]	98學年度台北市資訊學科能力競賽
+d412	79%	48	2009-08-28	10400 - Game Show Math	UVA	[]	UVa10400
+d354	100%	48	2009-07-20	NOIP2007模拟赛 1.吉祥数	ORIGINAL	[]	NOIP2007模拟赛第一题
+b898	52%	48	2016-11-06	高中組-第一題：畢氏定理	CONTEST	[]	2016高雄市資訊學科能力複賽
+b882	92%	48	2016-09-29	溢位 の OωO學長？	ORIGINAL	[算術運算子]	板橋高中教學題
+b838	86%	48	2016-06-18	104北二2.括號問題	CONTEST	[括號配對]	104北二區桃竹苗基資訊學科能力複賽
+b331	79%	48	2014-10-05	NOIP2013 2.表达式求值	TOI	[]	NOIP2013普及组第二题
+b236	84%	48	2009-11-14	CSAPC&#039;09 聖誕禮物	CONTEST	[]	2009海峽兩岸青少年程式設計競賽黃上恩
+a584	89%	48	2012-11-22	2. 親等關係	CONTEST	[]	101學年度北基區資訊學科能力競賽
+d917	85%	47	2010-12-23	5. 貼磁磚	CONTEST	[]	99學年度全國資訊學科能力競賽
+d861	90%	47	2010-10-31	NOIP2001 3.求先序排列	TOI	[]	NOIP2001普及组第三题
+d785	46%	47	2010-09-15	二、正邊形	CONTEST	[]	99學年度板橋高中校內資訊學科能力競賽
+d666	78%	47	2010-03-23	00763 - Fibonacci numbers	UVA	[]	UVa763
+d408	81%	47	2009-08-27	我要最小值 (Part 2)	ORIGINAL	[]	david
+d271	81%	47	2009-05-09	11582 - Colossal Fibonacci Numbers!	UVA	[]	UVa11582
+b543	67%	47	2015-09-13	看到員工的批評，主管們都驚呆了	CONTEST	[]	104學年度板橋高中校內資訊學科能力競賽（二）
+b525	43%	47	2015-09-09	先別管這個了，你聽過turtlebee嗎？	CONTEST	[]	104學年度板橋高中校內資訊學科能力競賽（一）
+a605	87%	47	2013-02-19	交錯和	ORIGINAL	[數論]	原創問題，如有雷同，純屬巧合
+d621	98%	46	2009-12-30	兔子跳鈴鐺	ORIGINAL	[DFS]	leopan0922david942j
+d467	65%	46	2009-10-05	幸运与不幸(求幂系列题8)	ORIGINAL	[數論]	scientific
+d444	77%	46	2009-09-16	排容原理	ORIGINAL	[Combination, Math]	
+d154	55%	46	2009-02-28	10814 - Simplifying Fractions	UVA	[]	UVa10814
+b305	77%	46	2014-09-12	極．板條大冒險 (一)：板擦之門	CONTEST	[]	103學年度板橋高中校內資訊學科能力競賽（四）
+a822	94%	46	2013-10-30	5.滾球遊戲	CONTEST	[]	101學年度桃竹苗區資訊學科能力競賽
+a820	92%	46	2013-10-30	3.小精靈吃數字	CONTEST	[]	101學年度桃竹苗區資訊學科能力競賽
+a064	77%	46	2011-02-26	SPOJ 4580.ABCDEF	ORIGINAL	[]	SPOJ 4580
+d838	83%	45	2010-10-24	NOIP2003 4.麦森数	TOI	[]	NOIP2003普及组第四题
+b763	80%	45	2015-12-16	你到底要不要跟我西批啊？！	BASIC	[]	
+b684	71%	45	2015-11-01	高中組第四題-狗狗遊戲	CONTEST	[]	2015高雄市資訊學科能力競賽高中組
+b217	79%	45	2008-12-22	2. 線串式主題閱讀系統	CONTEST	[]	97學年度全國資訊學科能力競賽
+a480	64%	45	2012-07-12	導彈攔截系統	CONTEST	[]	100學年度彰雲嘉區資訊學科能力競賽
+a471	75%	45	2012-07-03	givesum~連續整數的固定和	ORIGINAL	[]	名題精選百則
+a274	94%	45	2011-10-28	友誼的數字	ORIGINAL	[]	
+a266	92%	45	2011-10-19	校內賽	CONTEST	[]	2011成功高中校內賽複賽第二題
+a048	74%	45	2011-02-20	函数增减性	ORIGINAL	[]	liouzhou_101
+d832	90%	44	2010-10-22	遊樂場	ORIGINAL	[]	
+d757	86%	44	2010-08-12	11195 - Another n-Queen Problem	UVA	[]	UVa11195
+d735	86%	44	2010-06-27	Minimum Sum	ORIGINAL	[]	UVa108改編
+d439	94%	44	2009-09-13	11226 - Reaching the fix-point.	UVA	[]	UVa11226
+d209	98%	44	2009-04-01	古代神祕文字	ORIGINAL	[]	ACM加強版
+d142	32%	44	2009-02-20	10023 - Square root	UVA	[]	UVa10023
+b563	90%	44	2015-09-19	3.魔法學校交換生問題	CONTEST	[]	102學年度桃竹苗區資訊學科能力競賽
+b561	98%	44	2015-09-19	1.披薩大小	CONTEST	[]	102學年度桃竹苗區資訊學科能力競賽
+b375	100%	44	2014-12-07	幻方(魔方陣)之三：6 階	ORIGINAL	[陣列]	
+b188	71%	44	2008-11-19	97七區資訊學科3(改編)	CONTEST	[]	97學年度彰雲嘉區資訊學科能力競賽
+a561	25%	44	2012-10-23	內存不足	ORIGINAL	[]	
+a194	38%	44	2011-07-21	死亡 FLAG	ORIGINAL	[DAG, DFS, LIS, 圖論]	
+d825	86%	43	2010-10-22	隔熱紙	ORIGINAL	[]	
+d576	91%	43	2009-12-12	辭典遊戲	ORIGINAL	[BFS, DFS]	
+d284	96%	43	2009-05-15	漂亮數碼	ORIGINAL	[]	david
+b526	43%	43	2015-09-09	先別管這個了，你聽過微鼓勵嗎？	CONTEST	[]	104學年度板橋高中校內資訊學科能力競賽（一）
+b371	83%	43	2014-11-30	幻方(魔方陣)之二：4N階	ORIGINAL	[陣列]	zh.wikipedia.org/wiki/幻方
+b369	90%	43	2014-11-28	[福州19中]因子和阶乘	ORIGINAL	[數論, 質數]	福州十九中
+d894	84%	42	2010-11-20	NOIP2010 3.关押罪犯	TOI	[]	NOIP2010提高组第三题
+d882	88%	42	2010-11-13	10254 - The Priest Mathematician	UVA	[]	UVa10254
+d826	93%	42	2010-10-22	暗門	ORIGINAL	[]	
+d798	82%	42	2010-10-02	區域MAX	ORIGINAL	[2D, RMQ]	
+d437	98%	42	2009-09-12	10326 - The Polynomial Equation	UVA	[]	UVa10326
+d135	70%	42	2009-02-09	00143 - Orchard Trees	UVA	[]	UVa143
+c099	84%	42	2008-02-27	00115 - Climbing Trees	UVA	[]	UVa115
+b054	91%	42	2007-10-22	第五題：浮點數的表示式	CONTEST	[]	96學年度高雄市資訊學科能力競賽
+a858	82%	42	2013-12-16	數三角形	ORIGINAL	[]	
+a634	93%	42	2013-02-14	14. Knights Path	CONTEST	[]	HP CodeWars2007
+a632	100%	42	2013-02-14	12. Domino Rally	CONTEST	[]	HP CodeWars2007
+d806	76%	41	2010-10-08	水火不容	ORIGINAL	[]	
+d778	80%	41	2010-08-26	NOIP2009 2.Hankson的趣味题	TOI	[]	NOIP2009提高组第二题
+d716	80%	41	2010-05-31	Unique Snowflakes(強化版)	ORIGINAL	[]	UVa11572加強版
+d449	66%	41	2009-09-22	垃圾信件	ORIGINAL	[]	
+d425	75%	41	2009-09-06	公寓电梯	ORIGINAL	[]	著名题目
+d316	85%	41	2009-06-06	Quadrangle！	ORIGINAL	[]	经典题目
+b836	51%	41	2016-06-15	kevin戀愛攻略系列題-2 說好的霸王花呢??	BASIC	[for, if]	
+b537	63%	41	2015-09-12	分數運算-1	BASIC	[stack, 分數]	老師的教甄題
+b510	89%	41	2015-09-02	M 皇后 N 城堡	BASIC	[二維陣列, 棋盤]	清華 MOOCs 2014 程式設計導論期末考
+a523	77%	41	2012-09-01	12442 - Forwarding Emails	UVA	[]	UVa12442
+d280	98%	40	2009-05-12	骰子問題	ORIGINAL	[大數]	高二下課程
+c105	53%	40	2008-02-27	00270 - Lining Up	UVA	[]	UVa270
+a146	80%	40	2011-06-08	Sliding Window	ORIGINAL	[Heap(X), ST(X), 單調隊列]	POJ 2823
+d540	52%	39	2009-11-19	老Z的题	ORIGINAL	[]	10oi第二题--BY wsnbbzw1
+c103	89%	39	2008-02-27	00131 - The Psychic Poker Player	UVA	[]	UVa131
+b136	91%	39	2008-06-26	NOIP2006 3.作业调度方案	TOI	[]	NOIP2006提高組
+b109	80%	39	2008-01-31	2. IC 板檢測	CONTEST	[]	93學年度全國資訊學科能力競賽
+a219	89%	39	2011-08-15	限制排列	ORIGINAL	[窮舉]	
+d578	56%	38	2009-12-14	小涵的積木	ORIGINAL	[]	
+b562	95%	38	2015-09-19	2.神奇的「負二進位表示法」	CONTEST	[]	102學年度桃竹苗區資訊學科能力競賽
+a829	70%	38	2013-11-01	主機排程( schedule )	CONTEST	[]	102學年度台北市資訊學科能力競賽
+a672	97%	38	2013-05-02	00155 - All Squares	UVA	[]	UVa155
+a455	78%	38	2012-07-02	TOI2010 第四題：商品特賣問題	TOI	[]	2010TOI研習營初選
+a416	88%	38	2012-02-13	6. 城市馬拉松	CONTEST	[]	100學年度全國資訊學科能力競賽
+a250	88%	38	2011-10-16	NCPC2011 Problem H Special Subsequences	CONTEST	[]	NCPC2011
+a068	81%	38	2011-03-08	E. 看動畫 加强版	ORIGINAL	[]	NPSC 加强
+a014	51%	38	2011-02-19	夾娃娃	ORIGINAL	[BIT, ST]	
+d879	77%	37	2010-11-14	10911 - Forming Quiz teams	UVA	[]	UVa10911
+d837	86%	37	2010-10-24	NOIP2003 3.栈	TOI	[]	NOIP2003普及组第三题
+d821	84%	37	2010-10-21	最短路徑個數	ORIGINAL	[BFS, DP]	
+d766	84%	37	2010-08-16	11149 - Power of Matrix	UVA	[]	UVa11149
+b422	90%	37	2015-06-30	Colorful Life and Monochromatic Life	ORIGINAL	[影像處理]	
+b177	30%	37	2008-10-23	山景 Skyline	CONTEST	[]	2008海峽兩岸青少年程式設計競賽TmtSeanwu
+a819	84%	37	2013-10-30	2.小三資優數學	CONTEST	[]	101學年度桃竹苗區資訊學科能力競賽
+a562	80%	37	2012-10-24	ITSA201112 P2 小白鼠走方格	CONTEST	[]	ITSA201112
+d814	77%	36	2010-10-10	187. Twist and whirl - want to cheat	ORIGINAL	[]	SGU 187
+d751	86%	36	2010-07-09	10049 - Self­describing Sequence	UVA	[]	UVa10049
+d739	97%	36	2010-07-26	最少路径覆盖	ORIGINAL	[图论]	
+d552	95%	36	2009-11-30	Asphalt&#039;s Problem	ORIGINAL	[]	板擦高中手機杯贊助
+b430	33%	36	2015-07-05	簡單乘法	ORIGINAL	[數論基礎]	
+b297	71%	36	2014-09-08	啊!殭屍	CONTEST	[]	103學年度板橋高中校內資訊學科能力競賽（一），抄襲自 step5-0004
+b141	68%	36	2008-06-26	NOIP2005 4.循环	TOI	[]	NOIP2005普及組
+a869	100%	36	2013-12-23	9. Letter Scramble	CONTEST	[]	HP CodeWars2010
+a768	77%	36	2013-09-28	pD. 小蝦的煩惱	CONTEST	[]	2013成功高中校內賽
+a310	77%	36	2011-11-27	NOIP2011 3.瑞士轮	TOI	[]	NOIP2011普及组第三题
+a202	84%	36	2011-08-03	學長的鬼腳圖	ORIGINAL	[矩陣]	成功電研社學長
+a164	65%	36	2011-06-16	區間最大連續和	ORIGINAL	[DP, 區間]	Asia - Nanjing - 2007/2008
+d978	47%	35	2011-01-28	最长回文字串	ORIGINAL	[]	d945 NPSC 加强版
+d920	97%	35	2010-12-26	智慧盤	ORIGINAL	[]	
+d816	73%	35	2010-10-15	不要再晃啦！	ORIGINAL	[]	專出Trash Problem
+d653	90%	35	2010-03-11	VAC+ _ 社費問題	ORIGINAL	[]	VAC+
+d522	56%	35	2009-11-07	走棋盘	ORIGINAL	[]	动起来
+d298	97%	35	2009-05-25	昇旗典禮	ORIGINAL	[]	IOI1994改編
+d203	80%	35	2009-03-30	加法減法的奧妙	TOI	[]	USACO改編nanj
+b528	90%	35	2015-09-09	板條編年史 (二)：長頸鹿與妮可妮可妮的逆襲	CONTEST	[]	104學年度板橋高中校內資訊學科能力競賽（三）
+b144	83%	35	2008-06-26	NOIP2005 3.篝火晚会	TOI	[]	NOIP2005提高組
+b137	95%	35	2008-06-26	NOIP2006 4.2&lt;sup&gt;k&lt;/sup&gt; 进制数	TOI	[]	NOIP2006提高組
+a874	88%	35	2013-12-23	14. Trace Route	CONTEST	[]	HP CodeWars2010
+a586	90%	35	2012-11-22	4. 捷運計價問題	CONTEST	[]	101學年度北基區資訊學科能力競賽
+d769	92%	34	2010-08-20	共有多少種走法?	ORIGINAL	[]	國文課時的靈機一動(誤
+d341	94%	34	2009-07-08	11210 - Chinese Mahjong	UVA	[]	UVa11210
+c107	89%	34	2008-02-27	00273 - Jack Straws	UVA	[]	UVa273
+b312	83%	34	2014-09-14	固有結界	CONTEST	[]	103學年度板橋高中校內資訊學科能力競賽（三）
+a812	77%	34	2013-10-26	3. 動物排隊	CONTEST	[]	102學年度高雄市資訊學科能力競賽複賽
+a796	97%	34	2013-10-14	F.房布的地圖	CONTEST	[]	2013延平暑假快樂程設營練習賽題目
+a559	100%	34	2012-10-21	NCPC PC Matrix	CONTEST	[]	NCPC2012
+a491	71%	34	2012-07-29	貨物集中問題	CONTEST	[]	100學年度彰雲嘉區資訊學科能力競賽
+a415	87%	34	2012-02-13	4. 捷運路線	CONTEST	[]	100學年度全國資訊學科能力競賽
+d902	87%	33	2010-11-21	NOIP2010 4.三国游戏	TOI	[]	NOIP2010普及组第四题
+b847	85%	33	2016-08-15	一些字串	CONTEST	[]	105學年度板橋高中校內資訊學科能力競賽（一）
+b520	92%	33	2015-09-08	樂透-商競103	CONTEST	[Array, Sort]	103學年度商業類程式設計競賽模擬題
+b153	77%	33	2008-07-04	NOIP2004 4.虫食算	TOI	[]	NOIP2004提高組
+a675	97%	33	2013-05-02	00166 - Making Change	UVA	[]	UVa166
+a630	97%	33	2013-02-14	10. New Math	CONTEST	[]	HP CodeWars2007
+a569	55%	33	2012-11-04	2-絕對遞增的質數子數列	CONTEST	[]	101學年度台北市高中電腦軟體設計競賽
+a567	87%	33	2012-11-10	死線排程	ORIGINAL	[]	I2A
+a442	79%	33	2012-03-29	Necklace Problem (NP)	ORIGINAL	[]	Morris
+a192	97%	33	2011-07-19	接線問題	ORIGINAL	[]	
+d627	91%	32	2009-12-31	我.我.我...這麼弱 -跨年倒數	ORIGINAL	[]	UVa706加強版
+d373	89%	32	2009-08-11	5. 乳酪的誘惑	CONTEST	[]	96學年度全國資訊學科能力競賽
+d372	82%	32	2009-08-11	4. 合法執行路徑問題	CONTEST	[]	96學年度全國資訊學科能力競賽
+d272	91%	32	2009-05-09	11583 - Alien DNA	UVA	[]	UVa11583
+b565	94%	32	2015-09-19	5.採蘑菇攻略問題	CONTEST	[]	102學年度桃竹苗區資訊學科能力競賽
+a797	76%	32	2013-10-17	A.房布回台北	CONTEST	[]	2013延平暑假快樂程設營練習賽題目
+a788	91%	32	2013-10-12	10. uPhone Two-Point Zoom	CONTEST	[]	HP CodeWars2008
+a331	59%	32	2012-01-09	K-th Number	ORIGINAL	[]	Northeastern Europe 2004Northern Subregion
+a097	74%	32	2011-04-16	PARKET	ORIGINAL	[]	SPOJ改
+a066	62%	32	2011-03-04	HNOI2002 营业额统计	TOI	[]	HNOI2002
+d796	91%	31	2010-10-01	區域調查	ORIGINAL	[BIT, ST]	POJ.1195 Mobile phones 改編
+d416	89%	31	2009-08-28	投影最大值	ORIGINAL	[math]	david
+d288	74%	31	2009-05-16	Parallelogram! And triangle!!	ORIGINAL	[]	liouzhou_101
+b221	79%	31	2008-12-22	6. 耕者有其田	CONTEST	[]	97學年度全國資訊學科能力競賽
+b113	78%	31	2008-01-31	6. 線性系統求解	CONTEST	[]	93學年度全國資訊學科能力競賽
+a633	91%	31	2013-02-14	13. Not Quite OCR	CONTEST	[]	HP CodeWars2007
+a629	97%	31	2013-02-14	9. Musical Intervals	CONTEST	[]	HP CodeWars2007
+a175	76%	31	2011-07-08	撒旦玩不玩骰子？	ORIGINAL	[Hash Table]	
+a080	100%	31	2011-04-02	NOI2000 Day2.1.单词查找树	TOI	[]	NOI2000Day2第一题
+d110	71%	30	2009-01-14	NOIP 2008 4.双栈排序	TOI	[]	NOIP2008提高组
+b552	91%	30	2015-09-16	3.找質數	CONTEST	[prime, string, vector]	103學年度桃竹苗區資訊學科能力競賽
+b472	97%	30	2015-08-05	NOIP2014 Day1.1.生活大爆炸版石头剪刀布	TOI	[]	NOIP2014提高组Day1第一题
+b067	71%	30	2007-12-05	6. 下棋問題	CONTEST	[]	94學年度全國資訊學科能力競賽
+a994	29%	30	2014-05-20	10325 - The Lottery	UVA	[]	UVa10325
+a791	79%	30	2013-10-12	13. Least Recently Used	CONTEST	[]	HP CodeWars2008
+a505	77%	30	2012-10-10	B. T-primes	CONTEST	[]	CodeForce230BT-primes
+a350	70%	30	2011-12-15	3. 緞帶的購買問題	CONTEST	[]	100學年度北基區資訊學科能力競賽
+a247	48%	30	2011-10-15	00106 - Fermat vs. Pythagoras	UVA	[]	UVa106
+a207	77%	30	2011-08-05	精準覆蓋問題(Exact cover)	ORIGINAL	[DFS, Dancing Links, exact cover problem]	
+a168	94%	30	2011-06-23	3901 - Editor	ORIGINAL	[]	ICPC3901
+a126	94%	30	2011-05-08	NOI2004 Day1.1.郁闷的出纳员	TOI	[]	NOI2004Day1第一题
+d779	78%	29	2010-08-26	NOIP2009 3.最优贸易	TOI	[]	NOIP2009提高组第三题
+d246	76%	29	2009-04-25	Stone Game	ORIGINAL	[]	
+d243	91%	29	2009-04-24	圖論專家	ORIGINAL	[]	
+d222	97%	29	2009-04-20	11127 - Triple-Free Binary Strings	UVA	[]	UVa11127
+b899	81%	29	2016-11-06	高中組-第二題：物品探測	CONTEST	[]	2016高雄市資訊學科能力複賽
+b689	97%	29	2015-11-09	第二題：棕櫚迷宮	CONTEST	[]	2014高雄市資訊學科能力競賽高中組
+b683	85%	29	2015-11-01	高中組第三題-環形偵測	CONTEST	[]	2015高雄市資訊學科能力競賽高中組
+b584	81%	29	2015-09-29	過橋問題	CONTEST	[數論]	SEARCC-ISSC國際學生程式設計競賽
+b458	78%	29	2015-07-26	非黑即白	ORIGINAL	[影像處理]	
+a815	81%	29	2013-10-26	6. 蜜蜂飛行	CONTEST	[]	102學年度高雄市資訊學科能力競賽複賽
+a683	53%	29	2013-05-18	01363 - Joseph&#039;s Problem	UVA	[]	UVa1363
+a285	91%	29	2011-10-23	女兒國婚友社	ORIGINAL	[有多項式時間算法，但是相當複雜。所以...?]	HKHS 練習賽II Problem C
+a260	81%	29	2011-10-18	10202 - Pairsumonious Numbers	UVA	[]	UVa10202
+a063	85%	29	2011-02-26	SGU 187. Twist and whirl - want to cheat 加强版	ORIGINAL	[]	SGU 187
+d795	93%	28	2010-10-01	10401 - Injured Queen Problem	UVA	[]	UVa10401
+d358	76%	28	2009-07-23	奖金(reward)	ORIGINAL	[]	雅礼中学2007模拟试题
+d304	74%	28	2009-05-30	複製貼上	ORIGINAL	[DFS, 暴力或者是...]	
+d291	65%	28	2009-05-19	自守数	ORIGINAL	[]	liouzhou_101
+d249	53%	28	2009-04-26	94北縣賽-1-心意相通的指數(Match)	CONTEST	[]	94學年度北基區資訊學科能力競賽
+b343	88%	28	2014-10-21	11518 - Dominos 2	UVA	[]	UVa11518
+a648	90%	28	2013-03-26	A - Red Areas	TOI	[]	2013TOI陳伶志PTC 2008
+a279	82%	28	2011-10-21	分糖果囉	ORIGINAL	[]	
+a257	93%	28	2011-10-16	NCPC2011 Problem K Key Persons	CONTEST	[]	NCPC2011
+a171	100%	28	2011-07-06	打印樹	ORIGINAL	[BST, 字串]	
+d800	79%	27	2010-10-04	ST版 区间MAX	ORIGINAL	[RMQ, ST, segment tree]	d798的另一种版本
+d730	93%	27	2010-06-16	升旗典礼 ——加强版	ORIGINAL	[]	IOI1994The Clocks 再次加强
+d476	75%	27	2009-10-07	区间查询	ORIGINAL	[]	vijos
+d313	87%	27	2009-06-04	FROM GENE TO PROTEIN	ORIGINAL	[分子生物學]	我自己
+b174	90%	27	2008-10-23	旅游规划	CONTEST	[]	2008海峽兩岸青少年程式設計競賽
+a698	82%	27	2013-06-19	[NOIP 2012 普及組] 4.文化之旅	TOI	[DP, 动态规划]	NOIP2012普及組第四题
+a578	100%	27	2012-11-19	苦哈哈機器人工廠	ORIGINAL	[]	
+a449	60%	27	2012-04-10	國王烏龜的接駁車	TOI	[]	USACO1996Problem setter: ATPTIOJ 1623
+a268	77%	27	2011-10-19	河內塔問題	CONTEST	[]	2011成功高中校內賽複賽第四題
+d780	74%	26	2010-08-26	NOIP2009 4.靶形数独	TOI	[]	NOIP2009提高组第四题
+b311	60%	26	2014-09-14	強襲堡壘	CONTEST	[]	103學年度板橋高中校內資訊學科能力競賽（三）
+b064	93%	26	2007-12-05	3. 下界函數	CONTEST	[]	94學年度全國資訊學科能力競賽
+a570	93%	26	2012-11-05	場地租借	ORIGINAL	[]	I2A
+a269	96%	26	2011-10-28	小氣的國王	ORIGINAL	[]	
+a245	79%	26	2011-10-06	王老師愛兩條線	ORIGINAL	[]	板橋高中練習題
+a206	100%	26	2011-08-04	學長的鬼腳圖 (二)	ORIGINAL	[0-1原理, sorting network, 並行排序]	學長的鬼腳圖 GrD改編
+a181	81%	26	2011-07-11	逆逆向思考	ORIGINAL	[Trie]	
+d759	86%	25	2010-08-13	10271 - Chopsticks	UVA	[]	UVa10271
+d650	61%	25	2010-02-17	好多骰子	ORIGINAL	[]	
+d600	83%	25	2009-12-22	5.景觀餐廳	CONTEST	[]	98學年度全國資訊學科能力競賽
+d524	76%	25	2009-11-11	10599 - Robots(II)	UVA	[]	UVa10599
+d429	68%	25	2009-09-10	第一題: 社團分組 (club)	CONTEST	[]	92學年度北基區資訊學科能力競賽
+d374	26%	25	2009-08-11	6. X^2 ≡ 1 (mod M)	CONTEST	[]	96學年度全國資訊學科能力競賽
+d343	81%	25	2009-07-08	10578 - The Game of 31	UVA	[]	UVa10578
+b606	93%	25	2015-10-14	Add All	ORIGINAL	[Huffman's Encode, Priority Queue, Sort]	2016 NEHS校內上機考
+b464	81%	25	2015-08-03	聲音時間長度	ORIGINAL	[聲音處理]	
+b302	68%	25	2014-09-12	板條大冒險 (四)：茵可的路	CONTEST	[]	103學年度板橋高中校內資訊學科能力競賽（二）
+b145	57%	25	2008-06-26	NOIP2005 4.等价表达式	TOI	[]	NOIP2005提高組
+a790	93%	25	2013-10-12	12. Haunted House Inspector	CONTEST	[]	HP CodeWars2008
+a789	81%	25	2013-10-12	11. Diffusion Limited Aggregation	CONTEST	[]	HP CodeWars2008
+a712	83%	25	2013-07-05	[POJ 1002] 487-3279	ORIGINAL	[]	POJ 1002
+a687	74%	25	2013-05-28	軍方密碼	ORIGINAL	[大數]	
+a552	93%	25	2012-10-19	模型	ORIGINAL	[]	
+a374	64%	25	2012-01-26	5. 股票趨勢	CONTEST	[]	100學年度全國資訊學科能力競賽
+a329	93%	25	2011-12-07	貪婪的Tony	ORIGINAL	[]	2011 成板杯第二題
+d990	28%	24	2011-02-07	最終章－痛ましいです	ORIGINAL	[Suffix Array]	
+d841	92%	24	2010-10-24	NOIP2003 3.加分二叉树	TOI	[]	NOIP2003提高组第三题
+b911	77%	24	2016-11-08	我想跟Kevin借筷子系列4	BASIC	[學長ㄉ愛]	學姊
+a962	12%	24	2014-03-06	新專輯	ORIGINAL	[數論]	TIOJ 1674
+a832	92%	24	2013-11-04	2、数列变换	ORIGINAL	[阵列]	备战Noip 2013模拟赛系列
+a814	71%	24	2013-10-26	5. 卡片遊戲	CONTEST	[]	102學年度高雄市資訊學科能力競賽複賽
+a758	73%	24	2013-09-18	二、營救夥伴	CONTEST	[]	102學年度板橋高中校內資訊學科能力競賽
+a638	71%	24	2013-03-08	Closest-pair problem	ORIGINAL	[]	
+a176	100%	24	2011-07-08	Battle!	ORIGINAL	[俄羅斯方塊..]	CSDC
+d905	37%	23	2010-11-23	1. 機器人碰撞偵測	CONTEST	[]	99學年度北基區資訊學科能力競賽
+d895	68%	23	2010-11-20	NOIP2010 4.引水入城	TOI	[]	NOIP2010提高组第四题
+d844	74%	23	2010-10-29	NOIP2002 3.产生数	TOI	[]	NOIP2002普及组第三题
+d836	85%	23	2010-10-24	NOIP2003 2.数字游戏	TOI	[]	NOIP2003普及组第二题
+d830	82%	23	2010-10-22	暗門2	ORIGINAL	[]	
+d577	82%	23	2009-12-13	等值首尾和變化型	ORIGINAL	[]	jack1延伸題
+d572	96%	23	2009-12-10	第六題：柏油我認識妳嗎之似曾不相識	ORIGINAL	[]	板擦高中柏油杯inker出題、UVa改編
+b840	96%	23	2016-06-18	104北二4.農作物採收問題	CONTEST	[最大矩形和]	104北二區桃竹苗基資訊學科能力複賽
+b332	64%	23	2014-10-05	NOIP2013 3.小朋友的数字	TOI	[]	NOIP2013普及组第三题
+b301	79%	23	2014-09-12	板條大冒險 (三)：JACKY 的路	CONTEST	[]	103學年度板橋高中校內資訊學科能力競賽（二）
+a833	92%	23	2013-11-04	3、沙漠旅行	ORIGINAL	[图论]	备战Noip 2013模拟赛系列
+a692	88%	23	2013-07-30	區域劃分	ORIGINAL	[]	STEP5 的蘿莉
+a545	61%	23	2012-10-13	Stressful	ORIGINAL	[]	
+a532	70%	23	2012-09-21	奇特的數列	CONTEST	[DP]	2012成功高中校內賽第五題
+a277	64%	23	2011-10-21	高手寂寞	ORIGINAL	[]	
+d871	85%	22	2010-11-07	NOIP2000 4.单词接龙	TOI	[]	NOIP2000普及组第四题提高组第三题
+d367	42%	22	2009-08-05	我要最小值——加强版	ORIGINAL	[]	david 的题目我加强
+b844	61%	22	2016-08-09	一堆按鈕	CONTEST	[]	105學年度板橋高中校內資訊學科能力競賽（一）
+b569	61%	22	2015-09-22	總之就是一串燈泡	CONTEST	[]	104學年度板橋高中校內資訊學科能力競賽（四）
+b568	42%	22	2015-09-22	70萬都沒有，你還想當選手？	CONTEST	[]	104學年度板橋高中校內資訊學科能力競賽（四）
+b534	92%	22	2015-09-10	質因數、最大公因數	CONTEST	[]	102學年度商業類程式設計競賽
+a872	88%	22	2013-12-23	12. Abbreviation Expansion	CONTEST	[]	HP CodeWars2010
+a764	85%	22	2013-09-18	pC. Tony 與只有神知道的世界	CONTEST	[]	2013成功高中校內賽
+a646	38%	22	2013-03-14	小民買糖果	ORIGINAL	[]	中央助教
+a258	96%	22	2011-10-16	NCPC2011 Problem F Inverse Affine Transform	CONTEST	[]	NCPC2011
+d870	88%	21	2010-11-07	NOIP2000 3.乘积最大	TOI	[]	NOIP2000普及组第三题提高组第二题
+d477	91%	21	2009-10-07	古韵之同心锁	ORIGINAL	[]	vijos
+d276	36%	21	2009-05-09	轉了一圈	ORIGINAL	[GCD, 數學]	
+b536	95%	21	2015-09-10	國際標準書號 ISBN	CONTEST	[]	102學年度商業類程式設計競賽
+b317	64%	21	2014-09-19	紅圓茵可的野望	CONTEST	[]	103學年度板橋高中校內資訊學科能力競賽（五）
+a817	75%	21	2013-10-31	1.圈叉連線數問題	CONTEST	[]	100學年度桃竹苗區資訊學科能力競賽
+a763	81%	21	2013-09-18	pB. Shark 的數學遊戲	CONTEST	[]	2013成功高中校內賽
+a577	13%	21	2013-01-06	高精度乘法	ORIGINAL	[]	
+a572	72%	21	2012-11-08	IS&amp;MS	ORIGINAL	[]	
+a542	50%	21	2012-09-30	行列式det(A)	ORIGINAL	[數學, 矩陣, 行列式]	
+a083	75%	21	2011-04-03	NOI2001 Day1.1.食物链	TOI	[]	NOI2001Day1第一题
+d763	69%	20	2010-09-22	好多线段	ORIGINAL	[]	d102: 一堆线段 加强版
+d664	83%	20	2010-03-23	11725 - Colorful Board	UVA	[]	UVa11725
+d427	69%	20	2009-09-09	大數根號	ORIGINAL	[square root, 大數]	
+d268	69%	20	2009-05-09	11578 - Situp Benches	UVA	[]	UVa11578
+b554	95%	20	2015-09-16	5.貪吃龍遊戲	CONTEST	[]	103學年度桃竹苗區資訊學科能力競賽
+b527	61%	20	2015-09-09	板條編年史 (一)：紅圓茵可與大魔導 nanj 的出現	CONTEST	[]	104學年度板橋高中校內資訊學科能力競賽（三）
+b308	83%	20	2014-09-13	極．板條大冒險 (四)：茵可之門	CONTEST	[]	103學年度板橋高中校內資訊學科能力競賽（四）
+b278	74%	20	2014-08-13	说话不算话的区间求和	ORIGINAL	[线段树]	
+a473	61%	20	2012-10-07	外援計畫	ORIGINAL	[]	
+a209	71%	20	2011-08-08	街友的寒冷夜晚	ORIGINAL	[DLX, 重複覆蓋問題]	
+a172	69%	20	2011-08-28	覆蓋數列	ORIGINAL	[]	a194: 死亡 FLAG
+a167	87%	20	2011-06-21	SPOJ 694. Distinct Substrings	ORIGINAL	[SA, Suffix tree]	SPOJ 694
+a073	95%	20	2011-03-19	POJ2832 How Many Pairs?	ORIGINAL	[]	POJ Monthly--2006.05.28zhucheng
+d801	76%	19	2010-10-04	SCOI2006 2.动态最值(minmax)	TOI	[]	SCOI2006第二题
+d733	100%	19	2010-07-13	11329 - Curious Fleas	UVA	[]	UVa11329
+d207	34%	19	2009-03-31	10181 - 15 - Puzzle	UVA	[哈電族 - 華容道]	UVa10181
+b900	95%	19	2016-11-06	高中組-第三題：蠕動小蟲	CONTEST	[]	2016高雄市資訊學科能力複賽
+b878	86%	19	2016-09-28	Radius 半徑	ORIGINAL	[BFS]	2016 NEHS校內上機考
+b576	79%	19	2015-09-24	北門街	CONTEST	[]	104學年度板橋高中校內資訊學科能力競賽（五）
+b571	79%	19	2015-09-22	不要慌，這是孔明的陷阱！	CONTEST	[]	104學年度板橋高中校內資訊學科能力競賽（四）
+b417	86%	19	2015-06-27	區間眾數	ORIGINAL	[塊狀算法, 眾數, 莫隊算法]	
+b351	79%	19	2014-10-30	幻方(魔方陣)之一：奇N 階	ORIGINAL	[陣列]	維基百科：zh.wikipedia.org/wiki/幻方
+a875	100%	19	2013-12-23	15. Asteroid Mining Robot	CONTEST	[]	HP CodeWars2010
+a826	86%	19	2013-10-31	4.天氣預測問題	CONTEST	[]	100學年度桃竹苗區資訊學科能力競賽
+a682	95%	19	2013-05-17	00861 - Little Bishops	UVA	[DP]	UVa861
+a581	86%	19	2013-01-06	祖靈的煩惱 ˊ^ˋ	ORIGINAL	[勘根定理!!!]	祖靈的神秘力量~~
+a462	90%	19	2012-04-30	Beats of the Angel	ORIGINAL	[]	板橋高中練習題
+a243	79%	19	2011-09-21	第四題：點燈遊戲	CONTEST	[]	100學年度板橋高中校內資訊學科能力競賽
+a055	70%	19	2011-02-24	POJ 2182 Lost Cows	TOI	[]	USACO2003US Open Orange
+d609	75%	18	2009-12-22	Necklace	TOI	[]	USACO
+b841	86%	18	2016-06-18	104北二5.骨牌遊戲	CONTEST	[遞迴, 陣列, 骨牌]	104北二區桃竹苗基資訊學科能力複賽
+b583	67%	18	2015-09-28	一個環	CONTEST	[]	嘉義高中104資料學科能力競賽
+b575	90%	18	2015-09-24	似曾相識	CONTEST	[]	104學年度板橋高中校內資訊學科能力競賽（五）
+b275	100%	18	2014-08-11	数三角形	ORIGINAL	[基础知识]	CH #48
+b125	64%	18	2008-05-29	積木的拼疊問題（Bricks）	CONTEST	[]	96學年度台北市資訊學科能力競賽
+a459	69%	18	2012-04-24	An Easy Language	ORIGINAL	[]	板橋高中練習題
+a311	82%	18	2011-11-27	NOIP2011 4.表达式的值	TOI	[]	NOIP2011普及组第四题
+a303	95%	18	2011-11-26	NOIP2011 Day2.2.聪明的质监员	TOI	[]	NOIP2011提高组Day2第二题
+a084	100%	18	2011-04-03	NOI2001 Day1.2.反正切函数的应用	TOI	[]	NOI2001Day1第二题
+d998	85%	17	2011-02-10	WC2011 1.最大XOR和路径	TOI	[]	WC2011第一题
+b589	81%	17	2015-10-02	超級馬拉松賽	CONTEST	[DP]	SEARCC-ISSC國際學生程式設計競賽
+b346	52%	17	2014-10-22	二元搜尋樹快速建造	ORIGINAL	[平衡樹, 笛卡爾樹]	
+b314	77%	17	2014-09-19	紅圓茵可的煩惱	CONTEST	[]	103學年度板橋高中校內資訊學科能力競賽（五）
+b237	31%	17	2009-11-15	CSAPC&#039;09 迷宮任務	CONTEST	[]	2009海峽兩岸青少年程式設計競賽黃上恩
+b220	55%	17	2008-12-22	5. 蛋糕師傅的煩惱	CONTEST	[]	97學年度全國資訊學科能力競賽
+a760	49%	17	2013-09-18	四、世界末日預言	CONTEST	[]	102學年度板橋高中校內資訊學科能力競賽
+a580	57%	17	2012-11-21	輻射擴散	ORIGINAL	[]	ACM-ICPC Hatyai 改編
+a484	81%	17	2012-07-14	美麗風景遞增之路	ORIGINAL	[]	TCPC' 08 Increase
+a281	89%	17	2011-10-21	成為賢惠家庭主婦的第一步從購買划算的食譜開始	ORIGINAL	[]	
+a191	52%	17	2011-07-19	在世界遙遠的彼方	ORIGINAL	[]	
+a105	71%	17	2011-04-23	NOI2003 Day1.2.文本编辑器	TOI	[]	NOI2003Day1第二题
+a094	89%	17	2011-04-05	NOI2003 Day1.1.木棒游戏	TOI	[]	NOI2003Day1第一题
+a081	94%	17	2011-04-03	NOI2000 Day2.2.青蛙过河	TOI	[]	NOI2000Day2第二题
+d688	76%	16	2010-04-05	无向图中子图的个数	ORIGINAL	[]	morris1028
+d599	76%	16	2009-12-22	4. 園藝達人的除草計畫	CONTEST	[]	98學年度全國資訊學科能力競賽
+d454	64%	16	2009-09-23	四、王子歷險記	CONTEST	[]	98學年度板橋高中校內資訊學科能力競賽
+d315	43%	16	2009-06-05	sigma sinkx	ORIGINAL	[]	david
+b548	100%	16	2015-09-14	4.賓果遊戲	CONTEST	[]	102學年度北基區資訊學科能力競賽
+b517	84%	16	2015-09-08	是否為樹-商競103	CONTEST	[dfs, tree]	103學年度商業類程式設計競賽模擬題
+b322	84%	16	2014-09-28	樹形鎖頭	ORIGINAL	[]	妮可
+b306	70%	16	2014-09-12	極．板條大冒險 (二)：比較之門	CONTEST	[]	103學年度板橋高中校內資訊學科能力競賽（四）
+b276	76%	16	2014-08-11	4和7	ORIGINAL	[DP, 动态规划]	CH #48
+b178	13%	16	2008-10-23	遊輪 Boat	CONTEST	[]	2008海峽兩岸青少年程式設計競賽Seanwu
+a783	76%	16	2013-10-12	5. Houston Skyline	CONTEST	[]	HP CodeWars2008
+a596	80%	16	2013-01-09	祖靈要段考了!!!!!!!!	ORIGINAL	[DP]	祖靈的 JIZZZZZZZZZZZZZZ麵
+a301	76%	16	2011-11-26	NOIP2011 Day1.3.mayan游戏	TOI	[]	NOIP2011提高组Day1第三题
+a166	94%	16	2011-06-19	NOI2005 Day1.2.维护数列	TOI	[]	NOI2005Day1第二题
+d858	88%	15	2010-10-31	NOIP2001 4.Car的旅行路线	TOI	[]	NOIP2001提高组第四题
+d851	88%	15	2010-10-31	NOIP2002 2.字串变换	TOI	[]	NOIP2002提高组第二题
+d783	88%	15	2010-09-08	11818 - Mouse &amp; a Cheese	UVA	[]	UVa11818
+d776	83%	15	2010-08-26	NOIP2009 4.道路游戏	TOI	[]	NOIP2009普及组第四题
+d764	68%	15	2010-08-15	10606 - Opening Doors	UVA	[]	UVa10606
+d756	16%	15	2010-08-10	10290 - {Sum+=i++} to Reach N	UVA	[]	UVa10290
+b795	68%	15	2016-02-16	III菁英訓練	CONTEST	[]	
+b519	94%	15	2015-09-08	撲克牌遊戲-商競103	CONTEST	[array, poker, sort]	103學年度商業類程式設計競賽模擬題
+b327	83%	15	2014-10-02	學姊日談	ORIGINAL	[樹鏈剖分]	學姊
+a827	100%	15	2013-10-31	5.俄羅斯方塊問題	CONTEST	[]	100學年度桃竹苗區資訊學科能力競賽
+a568	83%	15	2012-11-10	ISSC 2012- problem B	CONTEST	[]	ISSC2012
+a392	71%	15	2012-01-30	NOI2011 Day2.1.道路修建	TOI	[]	NOI2011Day2第一题
+a304	75%	15	2011-11-26	NOIP2011 Day2.3.观光公交	TOI	[]	NOIP2011提高组Day2第三题
+a056	71%	15	2011-03-13	NOI1999 Day1.2.钉子和小球	TOI	[]	NOI1999Day1第二题
+d852	100%	14	2010-10-31	NOIP2002 3.自由落体	TOI	[]	NOIP2002提高组第三题
+b588	58%	14	2015-10-02	撿石頭遊戲	CONTEST	[DP]	SEARCC-ISSC國際學生程式設計競賽
+b582	64%	14	2015-09-28	一個窩	CONTEST	[]	嘉義高中104資料學科能力競賽
+b333	67%	14	2014-10-05	NOIP2013 4.车站分级	TOI	[]	NOIP2013普及组第四题
+a557	93%	14	2012-10-21	NCPC PB Integer Partition	CONTEST	[]	NCPC2012
+a443	38%	14	2012-03-29	10720 - Graph Construction	UVA	[]	UVa10720
+d842	76%	13	2010-10-24	NOIP2003 4.传染病控制	TOI	[]	NOIP2003提高组第四题
+d729	50%	13	2010-06-16	10593 - Kites	UVA	[]	UVa10593
+b753	100%	13	2015-12-09	P31以身分證投票之檢查	CONTEST	[字串處理, 迴圈, 陣列]	101學年度商業類程式設計競賽正式題
+b674	100%	13	2015-10-19	Is It A Tree	CONTEST	[Graph]	SEARCC-ISSC國際學生程式設計競賽
+b500	87%	13	2015-08-22	子字串集合	ORIGINAL	[set, trie, 後綴自動機]	
+b475	100%	13	2015-08-05	NOIP2014 Day2.1.无线网络发射器选址	TOI	[]	NOIP2014提高组Day2第一题
+b354	76%	13	2014-11-01	药水	ORIGINAL	[]	zzy7的2014模拟赛
+b315	59%	13	2014-09-19	紅圓茵可的考驗	CONTEST	[]	103學年度板橋高中校內資訊學科能力競賽（五）
+b300	76%	13	2014-09-12	板條大冒險 (二)：錢包的路	CONTEST	[]	103學年度板橋高中校內資訊學科能力競賽（二）
+a873	100%	13	2013-12-23	13. Tetra Square	CONTEST	[]	HP CodeWars2010
+a574	81%	13	2012-12-30	ITSA2012 桂冠 n維區間查詢	CONTEST	[]	ITSA2012
+a573	42%	13	2012-12-30	ITSA2012 桂冠 元件計算	CONTEST	[]	ITSA2012
+a265	93%	13	2011-10-19	紅黑樹	CONTEST	[]	2011成功高中校內賽複賽第一題
+a182	93%	13	2011-07-11	NOI2009 Day2.1.植物大战僵尸	TOI	[]	NOI2009Day2第一题
+a156	100%	13	2011-06-13	橋牌的開叫	ORIGINAL	[]	longbiau
+a067	65%	13	2011-03-13	NOI1999 Day1.3.生日蛋糕	TOI	[]	NOI1999Day1第三题
+d880	63%	12	2010-11-13	NOI2010 Day1.1.能量采集	TOI	[]	NOI2010Day1第一题
+d840	80%	12	2010-10-24	NOIP2003 2.侦探推理	TOI	[]	NOIP2003提高组第二题
+d734	75%	12	2010-06-27	另类Hanoi	ORIGINAL	[]	97 七区资讯学科能力竞赛
+d229	63%	12	2009-04-24	IOI研習營模考2-4砝碼	TOI	[]	TOI
+b798	52%	12	2016-02-16	VI Do Changelings Dream of Programming Sheep	CONTEST	[]	
+b793	41%	12	2016-02-16	I最後的饗宴	CONTEST	[]	
+b764	92%	12	2015-12-24	P32編碼	CONTEST	[字串處理, 迴圈, 陣列]	101學年度商業類程式設計競賽正式題
+b573	92%	12	2015-09-23	排列組合、最大公因數	CONTEST	[]	102學年度商業類程式設計競賽
+b550	100%	12	2015-09-16	1.花農種玫瑰	CONTEST	[]	103學年度桃竹苗區資訊學科能力競賽
+b442	86%	12	2015-07-09	快取實驗 矩陣乘法	ORIGINAL	[作業系統]	
+b352	75%	12	2014-11-01	相似	ORIGINAL	[]	zzy7的2014模拟赛
+b345	80%	12	2014-10-22	NOIP2013 Day1.2.火柴排队	TOI	[]	NOIP2013提高组Day1第二题
+a372	80%	12	2012-01-26	NOI2011 Day1.3.阿狸的打字机	TOI	[]	NOI2011Day1第三题
+a186	92%	12	2011-07-14	Three-Heap Wythoff&#039;s Game	ORIGINAL	[]	
+a072	86%	12	2011-03-27	NOI2010 Day1.2.超级钢琴	TOI	[]	NOI2010Day1第二题
+d853	85%	11	2010-10-31	NOIP2002 4.矩形覆盖	TOI	[]	NOIP2002提高组第四题
+d741	58%	11	2010-07-19	复制贴上——加强版	ORIGINAL	[]	d304: 复制贴上 加强版
+d717	55%	11	2010-05-23	好多因子	ORIGINAL	[]	UVa294加強版
+b901	65%	11	2016-11-08	高中組-第七題：森林呼喚	CONTEST	[]	2016高雄市資訊學科能力複賽
+b883	85%	11	2016-09-29	崩潰 の OωO學長！	ORIGINAL	[幾何, 算術運算子]	板橋高中練習題
+b546	92%	11	2015-09-14	2.特殊數列	CONTEST	[大數, 質因數乘積]	102學年度北基區資訊學科能力競賽
+b518	92%	11	2015-09-08	樹葉節點到根節點之路徑-商競103	CONTEST	[path, tree]	103學年度商業類程式設計競賽模擬題
+b476	85%	11	2015-08-05	NOIP2014 Day2.2.寻找道路	TOI	[]	NOIP2014提高组Day2第二题
+b434	100%	11	2015-07-06	圖片的梯度	ORIGINAL	[影像處理]	
+b357	100%	11	2014-11-04	順來逆受	ORIGINAL	[逆向處理]	妮可
+b173	85%	11	2008-10-23	飞船测控站（Stations）	CONTEST	[]	2008海峽兩岸青少年程式設計競賽
+a742	92%	11	2013-08-09	福州地铁	ORIGINAL	[图论]	海豚原创
+a576	48%	11	2012-11-18	No Cheating	CONTEST	[]	GCJ2008Round 3C
+a571	92%	11	2012-11-05	海港碼頭	ORIGINAL	[]	
+a564	100%	11	2012-10-24	ITSA201205 P4 Group without direct leaders	CONTEST	[]	ITSA201205
+a563	79%	11	2012-10-24	ITSA201210 P2 Median of a tree	CONTEST	[]	ITSA201210
+a558	92%	11	2012-10-21	NCPC PF Optimal Transformation Cost	CONTEST	[]	NCPC2012
+a556	69%	11	2012-10-21	NCPC PI Christmas Gifts	CONTEST	[]	NCPC2012
+a554	100%	11	2012-10-20	NCPC PG SHA-4	CONTEST	[]	NCPC2012
+a534	100%	11	2012-09-23	IOI2008 Day2.1.花園問題	TOI	[]	IOI2008Day2第一題
+a169	100%	11	2011-06-26	POJ 3225 Help with Intervals	ORIGINAL	[]	第六届北京大学程序设计大赛暨ACM/ICPC选拔赛 PKU Local 2007 (POJ Monthly--2007.04.28)frkstyc
+a128	52%	11	2011-05-09	Sharing Chocolate	ORIGINAL	[]	ACM ICPC World Finals
+a089	92%	11	2011-04-04	NOI2002 Day1.1.银河英雄传说	TOI	[]	NOI2002Day1第一题
+a086	73%	11	2011-04-03	NOI2001 Day2.1.炮兵阵地	TOI	[]	NOI2001Day2第一题
+a077	92%	11	2011-04-02	NOI2000 Day1.1.瓷片项链	TOI	[]	NOI2000Day1第一题
+a074	69%	11	2011-03-20	TOI2011 第五題：畫作問題	TOI	[]	2011TOI研習營初選
+a069	92%	11	2011-03-16	NOI1999 Day2.1.棋盘分割	TOI	[]	NOI1999Day2第一题
+a019	92%	11	2011-02-10	WC2011 2.拼点游戏	TOI	[]	WC2011第二题
+d912	91%	10	2010-12-22	NOI2009 Day1.1.变换序列	TOI	[]	NOI2009Day1第一题
+d839	83%	10	2010-10-24	NOIP2003 1.神经网络	TOI	[]	NOIP2003提高组第一题
+d797	91%	10	2010-10-02	00807 - Towers of Powers	UVA	[]	UVa807
+d782	100%	10	2010-09-25	11490 - Just Another Problem	UVA	[]	UVa11490
+d771	67%	10	2010-09-25	11061 - Playing War	UVA	[]	UVa11061
+b687	77%	10	2015-11-01	高中組第七題-坐好坐滿	CONTEST	[]	2015高雄市資訊學科能力競賽高中組
+b604	100%	10	2015-10-14	Center of Symmetry	BASIC	[]	
+b570	59%	10	2015-09-22	為什麼你們都喜歡撞來撞去的？	CONTEST	[]	104學年度板橋高中校內資訊學科能力競賽（四）
+b545	77%	10	2015-09-14	1.蟲蟲鑽洞問題	CONTEST	[]	102學年度北基區資訊學科能力競賽
+b530	48%	10	2015-09-09	板條編年史 (四)：板擦界、板條界與板燒界	CONTEST	[]	104學年度板橋高中校內資訊學科能力競賽（三）
+b473	71%	10	2015-08-05	NOIP2014 Day1.2.联合权值	TOI	[]	NOIP2014提高组Day1第二题
+b468	91%	10	2015-08-05	NOIP2013 Day1.3.货车运输	TOI	[]	NOIP2013提高组Day1第三题
+b459	100%	10	2015-07-26	圖片的直方圖	ORIGINAL	[影像處理]	
+b423	100%	10	2015-06-30	魔術橡皮擦	ORIGINAL	[影像處理]	
+b385	83%	10	2015-02-19	幻方(魔方陣)之四：4n+2階	ORIGINAL	[陣列]	
+a876	91%	10	2013-12-23	16. Ken-igma	CONTEST	[]	HP CodeWars2010
+a834	83%	10	2013-11-04	4、卡牌游戏	ORIGINAL	[贪心]	备战Noip 2013模拟赛系列
+a761	48%	10	2013-09-18	pA. 罐頭的記憶體	CONTEST	[]	2013成功高中校內賽
+a555	91%	10	2012-10-20	NCPC PD A Matrix Decipher	CONTEST	[]	NCPC2012
+a533	71%	10	2012-09-23	IOI2004 Day1.1.阿特米斯	TOI	[]	IOI2004Day1第一題
+a481	43%	10	2012-10-09	樹的維護	ORIGINAL	[]	
+a184	71%	10	2011-07-14	NOI2008 Day1.1.假面舞会	TOI	[]	NOI2008Day1第一题
+a137	100%	10	2011-05-20	NOI2007 Day1.1.社交网络	TOI	[]	NOI2007Day1第一题
+a070	100%	10	2011-03-16	NOI1999 Day2.2.最优连通子集	TOI	[]	NOI1999Day2第二题
+b848	56%	9	2016-08-15	一窩螞蟻	CONTEST	[]	105學年度板橋高中校內資訊學科能力競賽（一）
+b688	100%	9	2015-11-09	第一題：棕櫚守護	CONTEST	[]	2014高雄市資訊學科能力競賽高中組
+b685	82%	9	2015-11-01	高中組第五題-課堂抽籤	CONTEST	[]	2015高雄市資訊學科能力競賽高中組
+b585	100%	9	2015-09-29	來開派對唷	CONTEST	[陣列]	SEARCC-ISSC國際學生程式設計競賽
+b490	100%	9	2015-08-11	NOIP2000 4.方格取数	TOI	[]	NOIP2000提高组
+b469	90%	9	2015-08-05	NOIP2013 Day2.1.积木大赛	TOI	[]	NOIP2013提高组Day2第一题
+b467	75%	9	2015-08-05	NOIP2013 Day1.1.转圈游戏	TOI	[]	NOIP2013提高组Day1第一题
+b415	45%	9	2015-06-24	輸出優化練習	ORIGINAL	[緩衝區]	
+b413	64%	9	2015-06-23	虛擬女友	ORIGINAL	[并查集]	IPSC2015
+b321	90%	9	2014-09-28	河道分界	ORIGINAL	[]	
+b316	64%	9	2014-09-19	紅圓茵可的消失	CONTEST	[]	103學年度板橋高中校內資訊學科能力競賽（五）
+a792	75%	9	2013-10-12	14. Six Degrees of Kevin Bacon	CONTEST	[]	HP CodeWars2008
+a679	82%	9	2013-05-05	Interval Overlapping	ORIGINAL	[]	
+a376	100%	9	2012-01-26	NOI2011 Day2.3.兔兔与蛋蛋游戏	TOI	[]	NOI2011Day2第三题
+a204	56%	9	2011-08-03	Exact sinx	ORIGINAL	[大數, 數學]	
+d856	50%	8	2010-10-31	NOIP2001 3.统计单词个数	TOI	[]	NOIP2001提高组第三题
+d692	57%	8	2010-04-09	矢量星球 - 快速版本	ORIGINAL	[]	NPSC 2010 高中組決賽 修改
+b902	62%	8	2016-11-08	高中組-第八題：肉墊遊戲	CONTEST	[]	2016高雄市資訊學科能力複賽
+b879	53%	8	2016-09-28	三元逆序數對	ORIGINAL	[]	2016 NEHS校內上機考
+b809	67%	8	2016-03-02	九○七四二的問題	ORIGINAL	[]	
+b586	73%	8	2015-09-29	文章壓縮	CONTEST	[Linked List]	SEARCC-ISSC國際學生程式設計競賽
+b533	100%	8	2015-09-10	P21數學問題-集合	CONTEST	[]	102學年度商業類程式設計競賽
+b454	67%	8	2015-07-21	請輸出這張圖片的RGB數值	ORIGINAL	[影像處理]	
+b397	57%	8	2015-06-03	找出最長共同子序列	ORIGINAL	[LCS, 回溯]	妮可
+b348	62%	8	2014-10-23	最近餐館	ORIGINAL	[KD樹, 搜索結構, 計算幾何]	
+b326	89%	8	2014-10-02	計畫巧遇	ORIGINAL	[圖論]	蘿莉控
+a794	100%	8	2013-10-12	16. Warning: Graphic Functions!	CONTEST	[]	HP CodeWars2008
+a566	89%	8	2012-10-30	IOI2007 Day1.2.洪水問題	TOI	[]	IOI2007Day1第二題
+a360	100%	8	2012-10-04	IOI2007 Day2.3.訓練問題	TOI	[]	IOI2007Day2第三題
+a232	89%	8	2011-09-11	NOI2010 Day1.3.海拔	TOI	[]	NOI2010Day1第三题
+a179	100%	8	2011-07-10	NOI2006 Day2.1.最大获利	TOI	[]	NOI2006Day2第一题
+a162	100%	8	2011-06-14	NOI2005 Day2.1.聪聪与可可	TOI	[]	NOI2005Day2第一题
+a161	89%	8	2011-06-14	NOI2005 Day1.1.瑰丽华尔兹	TOI	[]	NOI2005Day1第一题
+a087	89%	8	2011-04-03	NOI2001 Day2.2.方程的解数	TOI	[]	NOI2001Day2第二题
+d911	100%	7	2011-01-08	NOI2009 Day1.3.二叉查找树	TOI	[]	NOI2009Day1第三题
+d869	78%	7	2010-11-07	NOIP2000 2.税收与补贴问题	TOI	[]	NOIP2000普及组第二题
+d601	64%	7	2009-12-22	6.計算執行路徑的可行性	CONTEST	[]	98學年度全國資訊學科能力競賽
+b797	37%	7	2016-02-16	V流星火雨	CONTEST	[]	
+b691	100%	7	2015-11-09	第四題：棕櫚步道	CONTEST	[]	2014高雄市資訊學科能力競賽高中組
+b577	54%	7	2015-09-24	解壓縮	CONTEST	[]	104學年度板橋高中校內資訊學科能力競賽（五）
+b529	70%	7	2015-09-09	板條編年史 (三)：女裝風潮與 XX 之亂	CONTEST	[]	104學年度板橋高中校內資訊學科能力競賽（三）
+b465	100%	7	2015-08-03	Sine Wave	ORIGINAL	[聲音處理]	
+b440	78%	7	2015-07-08	【我愛Möbius】之互質對	ORIGINAL	[數論基礎]	
+b426	100%	7	2015-07-03	宇宙光明體	ORIGINAL	[影像處理]	
+b277	54%	7	2014-08-11	反射镜	ORIGINAL	[搜索]	CH #48
+a666	41%	7	2013-08-16	橋樑建造	ORIGINAL	[圖論]	原創問題，如有雷同，純屬巧合
+a549	100%	7	2012-10-17	NOI2008 Day2.2.糖果雨	TOI	[]	NOI2008Day2第二题
+a432	88%	7	2012-03-02	NOI2009 Day1.2.诗人小G	TOI	[]	NOI2009Day1第二题
+a353	88%	7	2012-01-17	NOI2010 Day2.1.航空管制	TOI	[]	NOI2010Day2第一题
+a352	78%	7	2012-01-16	解电阻	ORIGINAL	[]	liouzhou_101
+a198	100%	7	2011-07-22	NOI2005 Day1.3.智慧珠游戏	TOI	[]	NOI2005Day1第三题
+a157	78%	7	2011-06-13	NOI2007 Day2.1.项链工厂	TOI	[]	NOI2007Day2第一题
+a124	100%	7	2011-05-07	NOI2003 Day2.1.逃学的小孩	TOI	[]	NOI2003Day2第一题
+a093	88%	7	2011-04-05	NOI2002 Day2.3.机器人M号	TOI	[]	NOI2002Day2第三题
+a071	78%	7	2011-03-16	NOI1999 Day2.3.内存分配	TOI	[]	NOI1999Day2第三题
+b810	75%	6	2016-03-02	九○七四二的問題之(二)	ORIGINAL	[大數相乘, 大數相加]	
+b796	67%	6	2016-02-16	IV哈特蘭之役	CONTEST	[]	
+b692	86%	6	2015-11-09	第五題：棕櫚儀式	CONTEST	[]	2014高雄市資訊學科能力競賽高中組
+b690	46%	6	2015-11-09	第三題：棕櫚森林	CONTEST	[]	2014高雄市資訊學科能力競賽高中組
+b555	40%	6	2015-09-16	攻城掠地	ORIGINAL	[四分樹, 樹套樹, 窮舉加速, 長條切割]	Morris開學迎新
+b489	86%	6	2015-08-11	NOIP2000 1.进制转换	TOI	[]	NOIP2000提高组
+b462	100%	6	2015-07-28	圖片亮度調整原理深度剖析	ORIGINAL	[影像處理]	
+b456	75%	6	2015-07-22	請輸出這張圖片的RGB數值（難度↑）	ORIGINAL	[影像處理]	
+b437	22%	6	2015-07-07	11476 - Factorizing Larget Integers	UVA	[]	UVa11476
+b431	86%	6	2015-07-06	中國餘數	ORIGINAL	[數論基礎]	
+b425	100%	6	2015-07-02	抽菸動作　請勿模仿	ORIGINAL	[影像處理]	
+b418	86%	6	2015-06-28	八成真物	ORIGINAL	[LSH, bitset, 概率]	
+b416	67%	6	2015-06-24	誤會妹子序列	ORIGINAL	[2D range tree, BIT, 持久化結構, 掃描線, 歸併樹, 莫隊算法]	
+b414	100%	6	2015-06-23	BZOJ 3809 Gty 的二逼妹子序列	ORIGINAL	[]	BZOJ 3809
+b406	86%	6	2015-06-14	12538 - Version Controlled IDE	UVA	[函數式, 平衡樹]	UVa12538
+b398	100%	6	2015-06-03	障礙物轉換	ORIGINAL	[凸包, 單調, 計算幾何]	妮可
+b342	100%	6	2014-10-21	等高線	ORIGINAL	[掃描線]	
+a739	60%	6	2013-08-17	道路架設	ORIGINAL	[]	
+a494	75%	6	2012-08-19	清一色麻將	ORIGINAL	[]	改編自d341: 11210 - Chinese Mahjong
+a391	86%	6	2012-01-30	NOI2011 Day2.2.NOI嘉年华	TOI	[]	NOI2011Day2第二题
+a371	100%	6	2012-01-24	CTSC2008 Day2.1.图腾	TOI	[]	CTSC2008Day2第一题
+a337	86%	6	2012-01-16	WC2006 供水路径	TOI	[]	WC2006
+a318	50%	6	2012-01-02	NOI2011 Day1.1.兔农	TOI	[]	NOI2011Day1第一题
+a193	100%	6	2011-07-20	NOI2008 Day1.3.志愿者招募	TOI	[]	NOI2008Day1第三题
+a189	100%	6	2011-07-17	NOI2008 Day1.2.设计路线	TOI	[]	NOI2008Day1第二题
+a187	75%	6	2011-07-17	NOI2009 Day2.2.管道取珠	TOI	[]	NOI2009Day2第二题
+a173	100%	6	2011-07-07	NOI2006 Day1.1.网络收费	TOI	[]	NOI2006Day1第一题
+a092	100%	6	2011-04-05	NOI2002 Day2.1.荒岛野人	TOI	[]	NOI2002Day2第一题
+a090	86%	6	2011-04-05	NOI2002 Day1.3.贪吃的九头龙	TOI	[]	NOI2002Day1第三题
+a088	100%	6	2011-04-03	NOI2001 Day2.3.陨石的秘密	TOI	[]	NOI2001Day2第三题
+a085	100%	6	2011-04-03	NOI2001 Day1.3.聪明的打字员	TOI	[]	NOI2001Day1第三题
+a078	67%	6	2011-04-02	NOI2000 Day1.2.程序分析器	TOI	[]	NOI2000Day1第二题
+d480	33%	5	2009-10-08	基因的核	ORIGINAL	[]	vijosvijos_car
+d084	33%	5	2008-12-03	4.人造衛星(meteor)	CONTEST	[]	99學年度台北市資訊學科能力競賽
+b551	28%	5	2015-09-16	2. 羅馬羅盤	CONTEST	[]	103學年度桃竹苗區資訊學科能力競賽
+b483	100%	5	2015-08-07	史蒂芙的觀察日記	ORIGINAL	[Link/Cut Tree, 塊狀樹鏈, 最小生成樹, 離線分治]	
+b470	100%	5	2015-08-05	NOIP2013 Day2.2.花匠	TOI	[]	NOIP2013提高组Day2第二题
+b447	71%	5	2015-07-14	【我愛Möbius】之最大公約數求和	ORIGINAL	[數論基礎]	
+b438	83%	5	2015-07-08	裁剪尺寸	ORIGINAL	[影像處理]	
+b427	100%	5	2015-07-03	漸層色彩	ORIGINAL	[影像處理]	
+b412	100%	5	2015-06-19	【記憶中】之記憶中的并查集	ORIGINAL	[可持久化, 并查集]	
+b370	50%	5	2014-11-30	平面最小生成樹	ORIGINAL	[Delaunay, EMST, 三角化, 妮可, 計算幾何]	妮可
+a658	83%	5	2013-03-30	NOI2012 Day1.2.骑行川藏	TOI	[]	NOI2012Day1第二题
+a649	83%	5	2013-03-27	NOI2005 Day2.3.月下柠檬树	TOI	[]	NOI2005Day2第三题
+a428	100%	5	2012-02-25	NOI2008 Day2.1.奥运物流	TOI	[]	NOI2008Day2第一题
+a369	100%	5	2012-01-22	CTSC2008 Day2.2.网络管理	TOI	[]	CTSC2008Day2第二题
+a354	83%	5	2012-01-18	WC2007 2.疯狂赛车	TOI	[]	WC2007第二题
+a199	71%	5	2011-07-23	NOI2007 Day1.2.货币兑换	TOI	[]	NOI2007Day1第二题
+a197	83%	5	2011-07-22	NOI2007 Day2.2.生成树计数	TOI	[]	NOI2007Day2第二题
+a180	83%	5	2011-07-10	NOI2006 Day2.3.神奇口袋	TOI	[]	NOI2006Day2第三题
+a127	62%	5	2011-05-08	NOI2004 Day2.2.小H的小屋	TOI	[]	NOI2004Day2第二题
+a079	100%	5	2011-04-02	NOI2000 Day1.3.古城之谜	TOI	[]	NOI2000Day1第三题
+b839	100%	4	2016-06-18	104北二3.朋友	CONTEST	[LCS, 分組最大團]	104北二區桃竹苗基資訊學科能力複賽
+b771	80%	4	2016-01-13	46. Play with Words	ORIGINAL	[字串處理]	NTU批改娘計算機程式設計課程
+b686	57%	4	2015-11-01	高中組第六題-航線規劃	CONTEST	[]	2015高雄市資訊學科能力競賽高中組
+b605	80%	4	2015-10-14	Package	BASIC	[]	
+b596	80%	4	2015-10-07	Less is better	CONTEST	[Convex Hull]	SEARCC-ISSC國際學生程式設計競賽
+b595	57%	4	2015-10-06	Special Touring Car Racing	BASIC	[]	
+b594	100%	4	2015-10-06	A Marvelous Pet	BASIC	[]	
+b535	100%	4	2015-09-10	P32樹、內部節點最多只能當1次和沒有重複使用的邊	CONTEST	[]	102學年度商業類程式設計競賽
+b498	80%	4	2015-08-21	史蒂芙的單詞統計	ORIGINAL	[AC 自動機, DA trie]	
+b487	100%	4	2015-08-09	變態史考古 錯誤報導篇	ORIGINAL	[Link/Cut Tree]	
+b486	100%	4	2015-08-08	變態史考古	ORIGINAL	[LCA, Link/Cut Tree, 倍增算法, 離線處理]	
+b478	100%	4	2015-08-06	有限間距最長共同子序列	ORIGINAL	[LCS, 單調隊列]	
+b477	80%	4	2015-08-05	NOIP2014 Day2.3.解方程	TOI	[]	NOIP2014提高组Day2第三题
+b474	80%	4	2015-08-05	NOIP2014 Day1.3.飞扬的小鸟	TOI	[]	NOIP2014提高组Day1第三题
+b466	100%	4	2015-08-04	簡譜演奏程式	ORIGINAL	[聲音處理]	
+b449	100%	4	2015-07-16	加速策略 圈出角點	ORIGINAL	[影像處理]	
+b441	100%	4	2015-07-09	延展尺寸	ORIGINAL	[影像處理]	
+b436	100%	4	2015-07-07	圖片的梯度再進化	ORIGINAL	[影像處理]	
+b432	80%	4	2015-07-06	趣味加分	ORIGINAL	[數論基礎]	
+b429	80%	4	2015-07-05	離散對數	ORIGINAL	[數論基礎]	
+b419	67%	4	2015-06-28	公平的硬幣	ORIGINAL	[概率論]	
+b358	50%	4	2014-11-04	竹馬不敵天降	ORIGINAL	[Voronoi Diagram, 半平面交, 計算幾何]	妮可
+b328	57%	4	2014-10-03	災難再臨	ORIGINAL	[LCA]	PTCZJOI
+b234	31%	4	2009-11-11	CSAPC&#039;09 多邊形	CONTEST	[]	2009海峽兩岸青少年程式設計競賽陳伶志
+b175	33%	4	2008-10-23	跳动的水珠	CONTEST	[]	2008海峽兩岸青少年程式設計競賽
+a526	57%	4	2012-10-12	D. Fence	CONTEST	[]	Codeforces232D
+a506	25%	4	2012-08-20	走投無路的國王	ORIGINAL	[]	
+a458	29%	4	2012-10-06	Beats of the Angel 加強版	ORIGINAL	[]	a462加強版
+a426	67%	4	2012-02-20	WC2012 2.记忆中的水杉树	TOI	[]	WC2012第二题
+a368	100%	4	2012-01-22	CTSC2010 Day1.2.三国围棋擂台赛	TOI	[]	CTSC2010Day1第二题
+a183	80%	4	2011-07-13	NOI2004 Day2.1.降雨量	TOI	[]	NOI2004Day2第一题
+a082	80%	4	2011-04-03	NOI2000 Day2.3.算符破译	TOI	[]	NOI2000Day2第三题
+b893	100%	3	2016-11-01	勘根定理	BASIC	[]	板橋高中教學題
+b592	100%	3	2015-10-06	The Tower of Hanoi	BASIC	[]	
+b549	100%	3	2015-09-14	5.數位相片檔名	CONTEST	[]	102學年度北基區資訊學科能力競賽
+b494	50%	3	2015-08-17	史蒂芙的修羅道	ORIGINAL	[RMQ]	
+b471	100%	3	2015-08-05	NOIP2013 Day2.3.华容道	TOI	[]	NOIP2013提高组Day2第三题
+b435	100%	3	2015-07-06	尋找原根	ORIGINAL	[數論基礎]	
+b411	100%	3	2015-06-17	【記憶中】之記憶中的序列2	ORIGINAL	[可持久化, 塊狀鏈錶, 平衡樹]	
+b399	60%	3	2015-06-04	優勢產品	ORIGINAL	[搜索優化, 篩法]	
+b325	38%	3	2014-10-02	人格分裂	ORIGINAL	[計算幾何]	
+a547	50%	3	2012-10-15	Driving Directions	ORIGINAL	[]	Northeastern Europe 2006
+b905	40%	2	2016-11-08	高中組-第六題：阿姆斯特	CONTEST	[]	2016高雄市資訊學科能力複賽
+b903	29%	2	2016-11-08	高中組-第九題：超級電池	CONTEST	[]	2016高雄市資訊學科能力複賽
+b888	29%	2	2016-10-18	被坑 の OωO學長！	ORIGINAL	[if, 聯立解]	板橋高中練習題
+b807	67%	2	2016-02-21	II龍蟠虎踞	CONTEST	[]	
+b765	100%	2	2015-12-29	又是身份證(商競綜合題)	CONTEST	[身份證, 陣列]	10x商業
+b673	67%	2	2015-10-19	How Big Is It	CONTEST	[Circle, Geometry, Math]	SEARCC-ISSC國際學生程式設計競賽
+b599	100%	2	2015-10-07	Graph Construction	CONTEST	[Graph, erodos galloi theorem]	SEARCC-ISSC國際學生程式設計競賽
+b593	40%	2	2015-10-06	Code	BASIC	[]	
+b590	100%	2	2015-10-02	單位分數分解	CONTEST	[]	SEARCC-ISSC國際學生程式設計競賽北京大學題庫 http://poj.org/problem?id=1980
+b579	50%	2	2015-09-27	恢復分數	CONTEST	[數論]	SEARCC-ISSC國際學生程式設計競賽
+b493	100%	2	2015-08-16	史蒂芙的外交夥伴	ORIGINAL	[函數式線段樹, 啟發式合併]	
+b492	67%	2	2015-08-15	史蒂芙的外交序列	ORIGINAL	[函數式線段樹, 劃分樹, 樹套樹, 歸併樹]	
+b491	100%	2	2015-08-15	史蒂芙的政務工作	ORIGINAL	[伸展樹, 區間反轉]	
+b484	100%	2	2015-08-08	音色（三）	ORIGINAL	[聲音處理]	
+b482	100%	2	2015-08-07	音色（二）	ORIGINAL	[聲音處理]	
+b481	100%	2	2015-08-07	音色（一）	ORIGINAL	[聲音處理]	
+b480	100%	2	2015-08-06	合聲	ORIGINAL	[聲音處理]	
+b479	100%	2	2015-08-06	音名	ORIGINAL	[聲音處理]	
+b463	100%	2	2015-07-28	輕輕鬆鬆學會用曲線調整色彩	ORIGINAL	[影像處理]	
+b461	100%	2	2015-07-27	【我愛Möbius】之Fibonacci之夢	ORIGINAL	[數論基礎]	
+b460	67%	2	2015-07-27	判若黑白	ORIGINAL	[影像處理]	
+b451	100%	2	2015-07-18	圖片匹配	ORIGINAL	[影像處理]	
+b450	50%	2	2015-07-17	傻傻地幫人數錢	ORIGINAL	[影像處理]	
+b448	67%	2	2015-07-15	哈哈鏡	ORIGINAL	[影像處理]	
+b446	50%	2	2015-07-14	史蒂芙的煩惱	ORIGINAL	[KD樹, 分治, 搜索結構, 樹套樹, 離線處理]	
+b445	67%	2	2015-07-13	移植紋理	ORIGINAL	[影像處理]	
+b444	40%	2	2015-07-11	期望試驗 快速冪次	ORIGINAL	[密碼基礎]	
+b443	25%	2	2015-07-10	【我愛Möbius】之我愛Fibonacci	ORIGINAL	[數論基礎]	
+b439	100%	2	2015-07-08	快取置換機制	ORIGINAL	[作業系統]	
+b433	100%	2	2015-07-06	中間相遇法	ORIGINAL	[密碼基礎]	
+b424	40%	2	2015-07-01	圖片縮放	ORIGINAL	[影像處理]	
+b405	67%	2	2015-06-14	【記憶中】之記憶中的序列	ORIGINAL	[可持久化, 平衡樹]	
+b904	50%	1	2016-11-08	高中組-第十題：學園生活	CONTEST	[]	2016高雄市資訊學科能力複賽
+b880	25%	1	2016-09-28	數列操作	ORIGINAL	[]	2016 NEHS校內上機考
+b775	50%	1	2016-01-13	10028. Fast Page Rank	ORIGINAL	[]	NTU批改娘計算機程式設計課程
+b774	100%	1	2016-01-13	10029. Where is My Life	ORIGINAL	[]	NTU批改娘計算機程式設計課程
+b773	100%	1	2016-01-13	50011. Spell Checker	ORIGINAL	[字串處理]	NTU批改娘計算機程式設計課程
+b772	50%	1	2016-01-13	50010. Word Editor	ORIGINAL	[字串處理]	NTU批改娘計算機程式設計課程
+b770	50%	1	2016-01-13	47. Play with Words, Too.	ORIGINAL	[字串處理]	NTU批改娘計算機程式設計課程
+b693	33%	1	2015-11-09	第六題：棕櫚畫畫	CONTEST	[]	2014高雄市資訊學科能力競賽高中組
+b672	100%	1	2015-10-19	A Special Automobile Race	CONTEST	[Greedy]	SEARCC-ISSC國際學生程式設計競賽
+b607	50%	1	2015-10-14	Number Partition	BASIC	[]	
+b597	50%	1	2015-10-07	Stickst	CONTEST	[DFS]	SEARCC-ISSC國際學生程式設計競賽
+b591	50%	1	2015-10-02	最小容量造船問題	CONTEST	[二元一次方程式]	SEARCC-ISSC國際學生程式設計競賽
+b539	100%	1	2015-09-12	分數運算-3	ORIGINAL	[gcd, 分數, 分數次方, 質因數]	
+b488	100%	1	2015-08-10	Clipped Sine Wave	ORIGINAL	[聲音處理]	
+b485	50%	1	2015-08-08	音高	ORIGINAL	[聲音處理]	
+b452	50%	1	2015-07-19	傻傻地幫人數錢錢	ORIGINAL	[影像處理]	
+b421	25%	1	2015-06-29	01077 - The Sky is the Limit 強化	UVA	[]	UVa1077
+b359	50%	1	2014-11-04	[福州19中]电路图	ORIGINAL	[模拟]	Noip2014 RP++ Round 2
+b675	0%	0	2015-10-19	The Most Distant State	CONTEST	[2D Array, BFS]	UVa 10085SEARCC-ISSC國際學生程式設計競賽
+b598	0%	0	2015-10-07	Minimize the Number of Coins	CONTEST	[DP]	SEARCC-ISSC國際學生程式設計競賽
+a793	0%	0	2013-10-12	15. Railway Shunting Crew	CONTEST	[]	HP CodeWars2008
