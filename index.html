@@ -107,8 +107,8 @@
         if (id=="acstyle") acs.push(pid);
       });
       console.log(acs);
-        
-      // TODO: store ac list
+    
+      putFile("zj-"+uname, JSON.stringify({update_time:new Date().toISOString(), uname:uname, uid:uid, acs:acs}));
       
       main();
     }
