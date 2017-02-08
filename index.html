@@ -1,1 +1,210 @@
-<a href="probs.txt">probs.txt</a>
+<html>
+<head>
+<meta charset="utf-8">
+<title>zero2solv</title>
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" crossorigin="anonymous">
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" crossorigin="anonymous"></script>
+<script src="storage-gist.js"></script>
+<style>
+    td.inbl {
+        background-color: lightgray;
+    }
+    td.inbl.ac {
+        background-color: aquamarine;
+    }
+    rect.imbl {
+        fill: lightgray;
+    }
+    rect.imbl.ac {
+        fill: springgreen;
+    }
+</style>
+</head>
+<body>
+  <base target="_blank">
+  <div id="coverPage" style="width:100%; height:100%">
+      <div style="width:100%; height:10%">
+        <form class="form-inline" target="_self" onsubmit="javascript:setUname();return false;">
+            <div class="form-group">
+                <label for="uname">zerojudge username:</label>
+                <input type="text" class="form-control" id="uname" name="uname" placeholder="wolfdigit">
+            </div>
+            <button type="submit" class="btn btn-default">Go</button>
+            <span id="pasteHint"></span>
+            <div style="display:inline-block; float:right"><a href="probs.txt">難度列表</a></div>
+        </form>
+      </div>
+      <div>
+          <iframe id="zjFrm" style="width:100%; height:70%"></iframe>
+      </div>
+
+      <div style="width:100%; height:20%">
+          <textarea id="parseSrc" style="width:100%; height:100%" placeholder="paste here"></textarea>
+          <div id="sandbox" style="width: 100%; height: 20%; overflow: scroll"></div>
+      </div>
+    
+    <script>
+    function setUname() {
+      uname = document.getElementById("uname").value;
+      //window.location.href = "#"+uname;
+      //window.location.reload();
+      zjUrl = 'http://zerojudge.tw/UserStatistic?account=' + uname;
+      $('#zjFrm').attr('src', zjUrl);
+      $('#pasteHint').text('下方頁框登入zerojudge後，將個人訊息頁面全選複製，在最下方文字框內貼上');
+    }
+    </script>
+  </div>
+
+  <script>
+    function handlePaste (e) {
+      var clipboardData, pastedData;
+
+      // Stop data actually being pasted into div
+      e.stopPropagation();
+      e.preventDefault();
+
+      // Get pasted data via clipboard API
+      clipboardData = e.clipboardData || window.clipboardData;
+      //console.log(clipboardData.getData('text/html'));
+      pastedData = clipboardData.getData('Text/Html');
+
+      // Do whatever with pasteddata
+      e.target.value = pastedData;
+      
+      parseHtml(pastedData);
+    }
+
+    document.getElementById('parseSrc').addEventListener('paste', handlePaste);
+  </script>
+    
+  <script>
+    function parseHtml(html) {
+      //getFile("file2", function(data){
+      //  console.log(data);
+      //});
+      //putFile("testFile.txt", "{abc:123}");
+      $("#sandbox").html(html);
+
+      uname = $('#sandbox a[href^="http://zerojudge.tw/UserStatistic?userid="]').text();
+      console.log(uname);
+      if (!uname) { return; }
+      uid = $('#sandbox a[href^="http://zerojudge.tw/UserStatistic?userid="]').attr('href').split('=')[1];
+      console.log(uid);
+      //  return;
+      if (!uid) { return; }
+
+      acs = [];
+      elemList = $("#sandbox fieldset > a");
+      elemList/*.slice(10,13)*/.each(function(idx) {
+        id = $(this).attr("id");
+        pid = $(this).text();
+        //console.log(idx+": "+id+", "+pid);
+        //if (id=="acstyle") acs[pid] = true;
+        //else               acs[pid] = false;
+        if (id=="acstyle") acs.push(pid);
+      });
+      console.log(acs);
+        
+      // TODO: store ac list
+      
+      main();
+    }
+  </script>
+
+    <script>
+    function main() {
+      $.ajax({
+        url: 'probs.txt',
+        dataType: 'text',
+        type: 'GET'})
+      .done(function(data) {
+        probs = parseProbs(data);
+        draw(probs, acs);
+      });      
+    }
+    </script>
+    
+    <script>
+    probs = [];
+    function parseProbs(data) {
+      probs = [];
+      var rows = data.trim().split('\n');
+      for (var i=0; i<rows.length; i++) {
+        var prob = rows[i];
+        cols = prob.trim().split("\t");
+        probs.push({rank:i, pid:cols[0], title:cols[4], CAT:cols[5], tag:cols[6], author:cols[7]});
+      }
+      console.log(probs);
+      return probs;
+    }
+    
+        
+    function SVG(tag, attrs) {
+        var el = document.createElementNS('http://www.w3.org/2000/svg', tag);
+        for (var k in attrs)
+            el.setAttribute(k, attrs[k]);
+        return el;
+    }
+    
+    function draw(probs, acs) {
+        $('#coverPage').hide();
+        $('#main').show();
+        
+        var pageW=15, pageH=10;
+        var table, row, img;
+        var row;
+        for (var i=0; i<probs.length; i++) {
+            var pageI=Math.floor(i/(pageW*pageH)), pageZ=i%(pageW*pageH);
+            var pageX=pageZ%pageW, pageY=Math.floor(pageZ/pageW);
+            //console.log(pageX, pageY);
+            if (pageZ==0) {
+                table = $('<table>').css('margin', '2em');
+                img = $('<svg width="45" height="30">');
+            }
+            if (pageX==0) {
+                row = $('<tr>');
+            }
+
+            var cell = $('<td>').addClass('inbl');
+            prob = probs[i];
+            cell.append($('<a>').html(prob['pid'] + '<br>' + prob['title']).attr('href', 'http://zerojudge.tw/ShowProblem?problemid='+prob['pid']));
+            var titleStr = prob['CAT']+": "+prob['tag'];
+            if (prob['author']) titleStr+=" by "+prob['author'];
+            cell.attr('title', titleStr);
+            if (acs.indexOf(prob['pid'])>=0) cell.addClass('ac');
+            row.append(cell);
+            
+            var classStr = 'imbl';
+            if (acs.indexOf(prob['pid'])>=0) classStr += ' ac';
+            var rect = SVG('rect', {width:3, height:3, x:(pageX*3), y:(pageY*3), class:classStr});            
+            img.append(rect);
+            
+            if (pageX==pageW-1) {
+                table.append(row);
+            }
+            if (pageZ==(pageW*pageH-1)) {
+                var tab = $('<div>').attr('id', 'tab'+pageI).addClass('tab-pane fade');
+                if (pageI==0) tab.addClass('in active');
+                $('#contents').append(tab.append(table));
+                var li = $('<li>');
+                if (pageI==0) li.addClass('active');
+                var a = $('<a data-toggle="tab">').attr('href', '#tab'+pageI);
+                $('ul#tabs').append(li.append(a.append(img)));
+            }
+        }
+    }
+    </script>
+
+  <div id="main" style="display: none">
+      <ul class="nav nav-pills" id="tabs">
+      </ul>
+      <div class="tab-content" id="contents">
+      </div>
+  </div>
+  
+
+</body>
+</html>
