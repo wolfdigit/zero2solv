@@ -9,18 +9,23 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" crossorigin="anonymous"></script>
 <script src="storage-gist.js"></script>
 <style>
-    td.inbl {
-        background-color: lightgray;
-    }
-    td.inbl.ac {
-        background-color: aquamarine;
-    }
-    rect.imbl {
-        fill: lightgray;
-    }
-    rect.imbl.ac {
-        fill: springgreen;
-    }
+  #main table {
+    margin: 3px;
+    border-collapse: separate;
+    border-spacing: 1px 3px;
+  }
+  td.inbl {
+    background-color: lightgray;
+  }
+  td.inbl.ac {
+    background-color: aquamarine;
+  }
+  rect.imbl {
+    fill: lightgray;
+  }
+  rect.imbl.ac {
+    fill: springgreen;
+  }
 </style>
 </head>
 <body>
@@ -51,7 +56,7 @@
       uname = document.getElementById("uname").value;
       //window.location.href = "#"+uname;
       //window.location.reload();
-      zjUrl = 'http://zerojudge.tw/UserStatistic?account=' + uname;
+      zjUrl = 'https://zerojudge.tw/UserStatistic?account=' + uname;
       $('#zjFrm').attr('src', zjUrl);
       $('#pasteHint').text('下方頁框登入zerojudge後，將個人訊息頁面全選複製，在最下方文字框內貼上');
     }
@@ -88,10 +93,10 @@
       //putFile("testFile.txt", "{abc:123}");
       $("#sandbox").html(html);
 
-      uname = $('#sandbox a[href^="http://zerojudge.tw/UserStatistic?userid="]').text();
+      uname = $('#sandbox a[href^="https://zerojudge.tw/UserStatistic?userid="]').text();
       console.log(uname);
       if (!uname) { return; }
-      uid = $('#sandbox a[href^="http://zerojudge.tw/UserStatistic?userid="]').attr('href').split('=')[1];
+      uid = $('#sandbox a[href^="https://zerojudge.tw/UserStatistic?userid="]').attr('href').split('=')[1];
       console.log(uid);
       //  return;
       if (!uid) { return; }
@@ -161,7 +166,7 @@
             var pageX=pageZ%pageW, pageY=Math.floor(pageZ/pageW);
             //console.log(pageX, pageY);
             if (pageZ==0) {
-                table = $('<table>').css('margin', '2em');
+                table = $('<table>');
                 img = $('<svg width="45" height="30">');
             }
             if (pageX==0) {
@@ -170,7 +175,7 @@
 
             var cell = $('<td>').addClass('inbl');
             prob = probs[i];
-            cell.append($('<a>').html(prob['pid'] + '<br>' + prob['title']).attr('href', 'http://zerojudge.tw/ShowProblem?problemid='+prob['pid']));
+            cell.append($('<a>').html(prob['pid'] + '<br>' + prob['title']).attr('href', 'https://zerojudge.tw/ShowProblem?problemid='+prob['pid']));
             var titleStr = prob['CAT']+": "+prob['tag'];
             if (prob['author']) titleStr+=" by "+prob['author'];
             cell.attr('title', titleStr);
