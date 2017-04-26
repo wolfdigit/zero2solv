@@ -157,7 +157,7 @@
       .done(function(data) {
         probs = parseProbs(data);
         draw(probs, acs);
-        if (update_time===undefined) update_time = new Date().toISOString();
+        if (typeof update_time==='undefined') update_time = new Date().toISOString();
         $('#nameLabel').html('account: <a href="https://zerojudge.tw/UserStatistic?account='+uname+'">'+uname+'</a>');
         $('#msg').text("last update: "+update_time);
       });      
