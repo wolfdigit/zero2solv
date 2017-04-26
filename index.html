@@ -140,7 +140,8 @@
       if (pos!=-1) {
         href = href.substr(0, pos);
       }
-      location.href = href+'?account='+uname;
+      //location.href = href+'?account='+uname;
+      window.history.pushState({}, 'zero2solv - '+uname, href);
       
       //main();
     }
