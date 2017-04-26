@@ -89,7 +89,7 @@
 
     document.getElementById('parseSrc').addEventListener('paste', handlePaste);
     
-    var hrefSegs = location.href.split('?');
+    hrefSegs = location.href.split('?');
     if (hrefSegs.length==2) {
       if (hrefSegs[1].startsWith("account=")) {
         uname = hrefSegs[1].split("=")[1];
@@ -135,15 +135,17 @@
     
       putFile("zj-"+uname, JSON.stringify({update_time:new Date().toISOString(), uname:uname, uid:uid, acs:acs}));
 
+/*
       var href = location.href;
       var pos = href.lastIndexOf('?');
       if (pos!=-1) {
         href = href.substr(0, pos);
       }
       //location.href = href+'?account='+uname;
-      window.history.pushState({}, 'zero2solv - '+uname, href);
+      */
+      window.history.pushState({}, 'zero2solv - '+uname, hrefSegs[0]+'?account='+uname);
       
-      //main();
+      main();
     }
   </script>
 
@@ -253,7 +255,7 @@
 
   <div id="main" style="display: none">
       <div>
-      <div id="title" style="float:left;margin-right:20px">zero to solve <br/> <span id="nameLabel"></span></div>
+      <div id="title" style="float:left;margin-right:20px"><a href="?">zero to solve</a> <br/> <span id="nameLabel"></span></div>
       <ul class="nav nav-pills" id="tabs" style="display: inline-block">
       </ul>
       <div id="rightCol" style="float:right">
