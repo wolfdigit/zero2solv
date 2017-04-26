@@ -26,6 +26,20 @@
   rect.imbl.ac {
     fill: springgreen;
   }
+
+  #title {
+    float: left;
+    margin-right: 30px;
+  }
+  #title div {
+    display: inline;
+  }
+  #tabs {
+    display: inline-block;
+  }
+  #msg {
+    float: right;
+  }
 </style>
 </head>
 <body>
@@ -83,6 +97,21 @@
     }
 
     document.getElementById('parseSrc').addEventListener('paste', handlePaste);
+    
+    var hrefSegs = location.href.split('?');
+    if (hrefSegs.length==2) {
+      if (hrefSegs[1].startsWith("account=")) {
+        uname = hrefSegs[1].split("=")[1];
+        getFile("zj-"+uname, function(content) {
+          fileObj = JSON.parse(content);
+          console.log(fileObj);
+          acs = fileObj.acs;
+          uid = fileObj.uid;
+          update_time = fileObj.update_time;
+          main();
+        });
+      }
+    }
   </script>
     
   <script>
@@ -128,6 +157,9 @@
       .done(function(data) {
         probs = parseProbs(data);
         draw(probs, acs);
+        if (update_time===undefined) update_time = new Date().toISOString();
+        $('#nameLabel').html('account: <a href="https://zerojudge.tw/UserStatistic?account='+uname+'">'+uname+'</a>');
+        $('#msg').text("last update: "+update_time);
       });      
     }
     </script>
@@ -204,8 +236,12 @@
     </script>
 
   <div id="main" style="display: none">
+      <div>
+      <div id="title">zero to solve <br/> <span id="nameLabel"></span></div>
       <ul class="nav nav-pills" id="tabs">
       </ul>
+      <div id="msg"></div>
+      </div>
       <div class="tab-content" id="contents">
       </div>
   </div>
