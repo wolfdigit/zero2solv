@@ -20,25 +20,16 @@
   td.inbl.ac {
     background-color: aquamarine;
   }
+  td.inbl.selected {
+    border: 5px solid red;
+    border-radius: 5px;
+    font-weight: bold;
+  }
   rect.imbl {
     fill: lightgray;
   }
   rect.imbl.ac {
     fill: springgreen;
-  }
-
-  #title {
-    float: left;
-    margin-right: 30px;
-  }
-  #title div {
-    display: inline;
-  }
-  #tabs {
-    display: inline-block;
-  }
-  #msg {
-    float: right;
   }
 </style>
 </head>
@@ -143,8 +134,15 @@
       console.log(acs);
     
       putFile("zj-"+uname, JSON.stringify({update_time:new Date().toISOString(), uname:uname, uid:uid, acs:acs}));
+
+      var href = location.href;
+      var pos = href.lastIndexOf('?');
+      if (pos!=-1) {
+        href = href.substr(0, pos);
+      }
+      location.href = href+'?account='+uname;
       
-      main();
+      //main();
     }
   </script>
 
@@ -186,6 +184,7 @@
         return el;
     }
     
+    probDict = {};
     function draw(probs, acs) {
         $('#coverPage').hide();
         $('#main').show();
@@ -205,14 +204,15 @@
                 row = $('<tr>');
             }
 
-            var cell = $('<td>').addClass('inbl');
             prob = probs[i];
+            var cell = $('<td>').attr('id', 'p'+prob['pid']).addClass('inbl');
             cell.append($('<a>').html(prob['pid'] + '<br>' + prob['title']).attr('href', 'https://zerojudge.tw/ShowProblem?problemid='+prob['pid']));
             var titleStr = prob['CAT']+": "+prob['tag'];
             if (prob['author']) titleStr+=" by "+prob['author'];
             cell.attr('title', titleStr);
             if (acs.indexOf(prob['pid'])>=0) cell.addClass('ac');
             row.append(cell);
+            probDict[prob['pid']] = 'tab'+pageI;
             
             var classStr = 'imbl';
             if (acs.indexOf(prob['pid'])>=0) classStr += ' ac';
@@ -233,16 +233,38 @@
             }
         }
     }
+
+    $(function() {
+      $('#showPid').click(function(e) {
+        var pid=$('#pidTxt').val();
+        $('a[data-toggle=tab][href=#'+probDict[pid]+']').click();
+        $('td.inbl').removeClass('selected');
+        $('#p'+pid).addClass('selected');
+        console.log(probDict[pid]);
+      });
+      $('#pidTxt').keypress(function(e){
+        if (e.which==13) {
+          $('#showPid').click();
+        }
+      });
+    });
     </script>
 
   <div id="main" style="display: none">
       <div>
-      <div id="title">zero to solve <br/> <span id="nameLabel"></span></div>
-      <ul class="nav nav-pills" id="tabs">
+      <div id="title" style="float:left;margin-right:20px">zero to solve <br/> <span id="nameLabel"></span></div>
+      <ul class="nav nav-pills" id="tabs" style="display: inline-block">
       </ul>
-      <div id="msg"></div>
+      <div id="rightCol" style="float:right">
+        <div id="msg"></div>
+        <div class="input-group">
+          <span class="input-group-addon">pid:</span>
+          <input type="text" id="pidTxt" class="form-control" placeholder="a001">
+          <span class="input-group-btn"><button type="button" class="btn btn-default" id="showPid">show</button></span>
+        </div>
       </div>
-      <div class="tab-content" id="contents">
+      </div>
+      <div class="tab-content" id="contents" style="clear:both">
       </div>
   </div>
   
