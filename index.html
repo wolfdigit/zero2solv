@@ -113,17 +113,17 @@
       //putFile("testFile.txt", "{abc:123}");
       $("#sandbox").html(html);
 
-      uname = $('#sandbox a[href^="https://zerojudge.tw/UserStatistic?userid="]').text();
+      uname = $('#sandbox a[href^="https://zerojudge.tw/UserStatistic?id="]').text();
       console.log(uname);
       if (!uname) { return; }
-      uid = $('#sandbox a[href^="https://zerojudge.tw/UserStatistic?userid="]').attr('href').split('=')[1];
+      uid = $('#sandbox a[href^="https://zerojudge.tw/UserStatistic?id="]').attr('href').split('=')[1];
       console.log(uid);
       //  return;
       if (!uid) { return; }
 
       acs = [];
-      elemList = $("#sandbox fieldset > a");
-      elemList/*.slice(10,13)*/.each(function(idx) {
+      elemList = $("#sandbox a.acstyle");
+      elemList.each(function(idx) {
         id = $(this).attr("id");
         pid = $(this).text();
         //console.log(idx+": "+id+", "+pid);
