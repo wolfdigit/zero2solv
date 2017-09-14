@@ -55,7 +55,7 @@
     function draw(uname) {
       //console.log(uname);
       var target = $("#row-"+esc(uname));
-      target.html("<td>"+acs[uname].update_time+"</td><th>"+users[uname]+" "+uname+"</th>");
+      target.html("<td>"+acs[uname].update_time+"</td><th>"+users[uname]+' <a href="http://page.wolfdigit.ga/zero2solv/?account='+uname+'">'+uname+"</a></th>");
       for (grp in probs) {
         var content = [];
         for (prb in probs[grp]) {
