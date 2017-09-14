@@ -1,0 +1,206 @@
+<html>
+<head>
+<meta charset="utf-8">
+<title>zero2solv</title>
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" crossorigin="anonymous">
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" crossorigin="anonymous"></script>
+<script src="storage-gist.js"></script>
+<style>
+  #mainTbl td {
+    padding: 5px;
+  }
+</style>
+</head>
+<body>
+  <base target="_blank">
+  <script>
+    probs = [["b183", "d907", "d541"], ["d788", "b058", "b172"], ["d667", "b841", "???"]];
+    users = {"SuperDavid":"戴維", "kirksud":"蘇昱瑋", "u10550087":"張燕梅", "u10500105":"游旻凱", "wolfram0811":"劉育愷", "achilles255057":"詹智皓", "myaatim@gmail.com":"何俊諺"};
+    acs = {};
+
+    function esc(str) {
+      return str.replace(/\./g, "dot").replace(/@/g, "at");
+    }
+
+    function main() {
+      var tr = $("<tr>");
+      tr.append("<td>update_time</td><th>user</th>");
+      for (grp in probs) {
+        tr.append("<td>"+probs[grp].join("<br>")+"</td>");
+      }
+      $("#mainTbl").append(tr);
+      
+      for (uname in users) {
+        var tr = $("<tr>").attr("id", "row-"+esc(uname))
+        $('#mainTbl').append( tr );
+
+        getFile("zj-"+uname, function(content) {
+          fileObj = JSON.parse(content);
+          console.log(fileObj);
+          var uname = fileObj.uname;
+          acs[uname] = fileObj;
+          /*
+          acs = fileObj.acs;
+          uid = fileObj.uid;
+          update_time = fileObj.update_time;
+          */
+          draw(uname);
+        });
+      }
+    }
+
+    function draw(uname) {
+      //console.log(uname);
+      var target = $("#row-"+esc(uname));
+      target.html("<td>"+acs[uname].update_time+"</td><th>"+users[uname]+" "+uname+"</th>");
+      for (grp in probs) {
+        var content = [];
+        for (prb in probs[grp]) {
+          var res = "X";
+          console.log(probs[grp][prb]);
+          console.log(acs[uname].acs);
+          if ($.inArray(probs[grp][prb], acs[uname].acs)>-1) {
+            res = "O";
+          }
+          content.push(res);
+        }
+        target.append("<td>"+content.join(" ")+"</td>");
+      }
+    }
+
+    $(function() {
+      if ($("#main").is(":visible")) {
+        main();
+      }
+    });
+    </script>
+    
+  <div id="main">
+      <div class="tab-content" id="contents" style="clear:both">
+        <table id="mainTbl"></table>
+      </div>
+  </div>
+  
+  <div id="coverPage" style="width:100%; height:100%; display:none">
+      <div style="width:100%; height:10%">
+        <form class="form-inline" target="_self" onsubmit="javascript:setUname();return false;">
+            <div class="form-group">
+                <label for="uname">zerojudge username:</label>
+                <input type="text" class="form-control" id="uname" name="uname" placeholder="wolfdigit">
+            </div>
+            <button type="submit" class="btn btn-default">Go</button>
+            <span id="pasteHint"></span>
+            <div style="display:inline-block; float:right"><a href="probs.txt">難度列表</a></div>
+        </form>
+      </div>
+      <div>
+          <iframe id="zjFrm" style="width:100%; height:70%"></iframe>
+      </div>
+
+      <div style="width:100%; height:20%">
+          <textarea id="parseSrc" style="width:100%; height:100%" placeholder="paste here"></textarea>
+          <div id="sandbox" style="width: 100%; height: 20%; overflow: scroll"></div>
+      </div>
+    
+  </div>
+  <script>
+    unamestodo = [];
+
+    hrefSegs = location.href.split('?');
+    if (hrefSegs.length==2) {
+      if (hrefSegs[1].startsWith("update")) {
+        loopUpdate();
+      }
+    }
+
+    function loopUpdate() {
+      $("#main").hide();
+      $("#coverPage").show();
+      unamestodo = Object.keys(users);
+      updateOne(unamestodo[0]);
+    }
+
+    function updateOne(uname) {
+      $("#sandbox").html("");
+      $("#parseSrc").val("");
+      $('#uname').val("");
+      if (!uname) return;
+      zjUrl = 'https://zerojudge.tw/UserStatistic?account=' + uname;
+      $('#uname').val(uname);
+      $('#zjFrm').attr('src', zjUrl);
+      $('#pasteHint').text('下方頁框登入zerojudge後，將個人訊息頁面全選複製，在最下方文字框內貼上');
+    }
+
+    function handlePaste (e) {
+      var clipboardData, pastedData;
+
+      // Stop data actually being pasted into div
+      e.stopPropagation();
+      e.preventDefault();
+
+      // Get pasted data via clipboard API
+      clipboardData = e.clipboardData || window.clipboardData;
+      //console.log(clipboardData.getData('text/html'));
+      pastedData = clipboardData.getData('Text/Html');
+
+      // Do whatever with pasteddata
+      e.target.value = pastedData;
+      
+      parseHtml(pastedData);
+    }
+
+    document.getElementById('parseSrc').addEventListener('paste', handlePaste);
+
+    function parseHtml(html) {
+      $("#sandbox").html(html);
+
+      uname = $('#sandbox a[href^="https://zerojudge.tw/UserStatistic?id="]').text();
+      console.log(uname);
+      if (!uname) { return; }
+      uid = $('#sandbox a[href^="https://zerojudge.tw/UserStatistic?id="]').attr('href').split('=')[1];
+      console.log(uid);
+      //  return;
+      if (!uid) { return; }
+
+      acs = [];
+      elemList = $("#sandbox a.acstyle");
+      elemList.each(function(idx) {
+        id = $(this).attr("id");
+        pid = $(this).text();
+        //console.log(idx+": "+id+", "+pid);
+        //if (id=="acstyle") acs[pid] = true;
+        //else               acs[pid] = false;
+        if (id=="acstyle") acs.push(pid);
+      });
+      console.log(acs);
+    
+      putFile("zj-"+uname, JSON.stringify({update_time:new Date().toISOString(), uname:uname, uid:uid, acs:acs}));
+
+      unamestodo.shift();
+      if (unamestodo.length==0) {
+        location = location.href.split('?')[0];
+      }
+      else {
+        updateOne(unamestodo[0]);
+      }
+    }
+  </script>
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-50207952-4', 'auto');
+  ga('send', 'pageview', {
+    'page': location.pathname + location.search  + location.hash
+  });
+
+</script>
+</body>
+</html>
