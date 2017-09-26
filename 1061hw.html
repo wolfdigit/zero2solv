@@ -29,7 +29,11 @@
       var tr = $("<tr>");
       tr.append("<td>update_time</td><th>user</th>");
       for (grp in probs) {
-        tr.append("<td>"+probs[grp].join("<br>")+"</td>");
+        var lnks=probs[grp].map(function(x) {
+          var link = "https://zerojudge.tw/ShowProblem?problemid="+x;
+          return '<a href="'+link+'">'+x+'</a>';
+        });
+        tr.append("<td>"+lnks.join("<br>")+"</td>");
       }
       $("#mainTbl").append(tr);
       
