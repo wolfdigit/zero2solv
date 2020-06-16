@@ -222,10 +222,10 @@
             var rect = SVG('rect', {width:3, height:3, x:(pageX*3), y:(pageY*3), class:classStr});            
             img.append(rect);
             
-            if (pageX==pageW-1) {
+            if (pageX==pageW-1  || i==probs.length-1) {
                 table.append(row);
             }
-            if (pageZ==(pageW*pageH-1)) {
+            if (pageZ==(pageW*pageH-1) || i==probs.length-1) {
                 var tab = $('<div>').attr('id', 'tab'+pageI).addClass('tab-pane fade');
                 if (pageI==0) tab.addClass('in active');
                 $('#contents').append(tab.append(table));
